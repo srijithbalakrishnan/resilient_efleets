@@ -1,0 +1,936 @@
+Route id,Route Name,Stop Id,Seq Number,Stop Name,Stop lat,Stop lon,Agency Name,isStage,Stop used in App,Stop used in Etim,Consecutive Distance(m)
+ceyrxYzy,2A Blue,leeDbqil,1,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,Yes,Yes,Yes,0
+ceyrxYzy,2A Blue,TotmgOIU,2,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,219
+ceyrxYzy,2A Blue,pMpOGtHk,3,Thampanoor KTDC Chaithram,8.487971589,76.94988813,KSRTC,No,Yes,Yes,529
+ceyrxYzy,2A Blue,OAEOpFGZ,4,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,No,Yes,Yes,186
+ceyrxYzy,2A Blue,jqLODqJN,5,Aristo,8.489290098,76.95382465,KSRTC,No,Yes,Yes,295
+ceyrxYzy,2A Blue,XwqXdvMT,6,Model School Thycaud,8.494216858,76.95390872,KSRTC,Yes,Yes,Yes,547
+ceyrxYzy,2A Blue,fbpbHmqK,7,Panavila,8.497750674,76.95490661,KSRTC,No,Yes,Yes,407
+ceyrxYzy,2A Blue,RTZHqmBU,8,Bakery Junction,8.500589766,76.95398941,KSRTC,No,Yes,Yes,331
+ceyrxYzy,2A Blue,JEHbLvfl,9,Vazhuthacaud,8.500493037,76.95958558,KSRTC,No,Yes,Yes,615
+ceyrxYzy,2A Blue,szUnnJhU,10,DPI Junction,8.496089175,76.96210999,KSRTC,No,Yes,Yes,562
+ceyrxYzy,2A Blue,kxxLbSdt,11,Jagathy,8.494819896,76.96448055,KSRTC,Yes,Yes,Yes,296
+ceyrxYzy,2A Blue,ReADIyeR,12,Edapazhanji Pangode Fish Market,8.50407082,76.96883923,KSRTC,No,Yes,Yes,1134
+ceyrxYzy,2A Blue,SQALAdQW,13,Alakapuri Convention Centre,8.507634224,76.9704857,KSRTC,No,Yes,Yes,435
+ceyrxYzy,2A Blue,oIMluGHd,14,Kochar Road,8.512285272,76.97659506,KSRTC,No,Yes,Yes,847
+ceyrxYzy,2A Blue,jUifMkUJ,15,Maruthankuzhi,8.514017436,76.97727879,KSRTC,Yes,Yes,Yes,206
+ceyrxYzy,2A Blue,uyawOLmD,16,Sri Ramakrishna Hospital,8.513313063,76.97329135,KSRTC,No,Yes,Yes,445
+ceyrxYzy,2A Blue,tjALOGme,17,Sasthamangalam Judge Lane,8.511573004,76.96757568,KSRTC,No,Yes,Yes,657
+ceyrxYzy,2A Blue,ooVnghkL,18,Vellayambalam,8.510870949,76.96151542,KSRTC,Yes,Yes,Yes,671
+ceyrxYzy,2A Blue,fmifgIoI,19,Kanakakunnu,8.509314463,76.95758858,KSRTC,No,Yes,Yes,465
+ceyrxYzy,2A Blue,LwKYHhkr,20,Museum Public Office Complex,8.508083,76.95532,KSRTC,No,Yes,Yes,284
+ceyrxYzy,2A Blue,cbRSKSLu,21,Palayam Fine Arts College,8.505101646,76.95150915,KSRTC,Yes,Yes,Yes,534
+ceyrxYzy,2A Blue,SNpenkdA,22,Palayam Saphalyam,8.502484833,76.95027772,KSRTC,No,Yes,Yes,320
+ceyrxYzy,2A Blue,DKkpzmGs,23,VJT Hall,8.50267911,76.94937318,KSRTC,No,Yes,Yes,101
+ceyrxYzy,2A Blue,XOMRKFga,24,Kerala University,8.503468561,76.94886046,KSRTC,No,Yes,Yes,104
+ceyrxYzy,2A Blue,zGcFNiZX,25,General Hospital Trivandrum,8.499261604,76.94314107,KSRTC,No,Yes,Yes,783
+ceyrxYzy,2A Blue,WStdwMIf,26,Government Eye Hospital,8.499176301,76.94111487,KSRTC,No,Yes,Yes,223
+ceyrxYzy,2A Blue,kUuxCvqG,27,Pattoor,8.496950267,76.93831866,KSRTC,Yes,Yes,Yes,394
+ceyrxYzy,2A Blue,HETWHfdS,28,Vanchiyoor Court,8.493934061,76.94036379,KSRTC,No,Yes,Yes,403
+ceyrxYzy,2A Blue,nFyHjYwe,29,Uppidamoodu Bridge,8.490693584,76.94043001,KSRTC,No,Yes,Yes,360
+ceyrxYzy,2A Blue,VYOUmUBa,30,Chettikulangara Sreedevi Temple,8.489049977,76.94539238,KSRTC,Yes,Yes,Yes,575
+ceyrxYzy,2A Blue,eMZxNslv,31,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,527
+ceyrxYzy,2A Blue,vcHPwTmX,32,Thampanoor Main Bus Stand,8.487671098,76.95195397,KSRTC,No,Yes,Yes,210
+ceyrxYzy,2A Blue,HJhkvSOR,33,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,45
+ceyrxYzy,2A Blue,npYjXutS,34,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+ceyrxYzy,2A Blue,kgKXMCYO,35,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,Yes,Yes,Yes,708
+KYyXQOng,4C Yellow,QxZamfbS,1,Peroorkada Depot,8.534707787,76.96753619,KSRTC,Yes,Yes,Yes,0
+KYyXQOng,4C Yellow,uHULNbDo,2,Peroorkada Junction,8.537083289,76.96576194,KSRTC,No,Yes,Yes,328
+KYyXQOng,4C Yellow,sWAbgwHe,3,Peroorkada Thankamma Stadium,8.534229257,76.96378491,KSRTC,No,Yes,Yes,384
+KYyXQOng,4C Yellow,WRfjcdeq,4,Ambalamukku,8.530975679,76.96138736,KSRTC,No,Yes,Yes,447
+KYyXQOng,4C Yellow,EgakaCII,5,Narmadha Toll Junction,8.527014273,76.9604734,KSRTC,No,Yes,Yes,451
+KYyXQOng,4C Yellow,kPxMSDwg,6,Kowdiar,8.521697316,76.96083335,KSRTC,Yes,Yes,Yes,592
+KYyXQOng,4C Yellow,RBpRvuYQ,7,TTC Kowdiar,8.51974733,76.96079488,KSRTC,No,Yes,Yes,216
+KYyXQOng,4C Yellow,PawGTaBv,8,Devaswom Board,8.517238774,76.95678435,KSRTC,No,Yes,Yes,521
+KYyXQOng,4C Yellow,vwYCboet,9,Nanthancode,8.515495274,76.95406134,KSRTC,No,Yes,Yes,356
+KYyXQOng,4C Yellow,lMgiXnPl,10,Nanthancode Rajeev Lane,8.51366016,76.95342241,KSRTC,No,Yes,Yes,215
+KYyXQOng,4C Yellow,ZWfXEzJg,11,LMS Corporation Office,8.507295232,76.95204428,KSRTC,No,Yes,Yes,723
+KYyXQOng,4C Yellow,cbRSKSLu,12,Palayam Fine Arts College,8.505101646,76.95150915,KSRTC,Yes,Yes,Yes,250
+KYyXQOng,4C Yellow,DKkpzmGs,13,VJT Hall,8.50267911,76.94937318,KSRTC,No,Yes,Yes,357
+KYyXQOng,4C Yellow,MCygkfJZ,14,Kerala University,8.503695358,76.94854828,KSRTC,No,Yes,Yes,144
+KYyXQOng,4C Yellow,LPwlvAzx,15,Palayam Chandrasekharan Nair Stadium,8.504429764,76.95113128,KSRTC,No,Yes,Yes,295
+KYyXQOng,4C Yellow,wHYROrNo,16,Niyamasabha,8.506740325,76.95052704,KSRTC,No,Yes,Yes,265
+KYyXQOng,4C Yellow,gxmLnetZ,17,PMG,8.509026312,76.94925206,KSRTC,No,Yes,Yes,290
+KYyXQOng,4C Yellow,NMhmDHRK,18,Plamoodu,8.514328827,76.94573858,KSRTC,No,Yes,Yes,704
+KYyXQOng,4C Yellow,LiWwdvsI,19,Pattom SUT Office,8.518085839,76.94276329,KSRTC,Yes,Yes,Yes,530
+KYyXQOng,4C Yellow,gPdYMHZu,20,Vydhudhi Bhavan,8.515824347,76.93797571,KSRTC,No,Yes,Yes,583
+KYyXQOng,4C Yellow,CnixcMhk,21,Murinjapalam,8.51575026,76.93456414,KSRTC,No,Yes,Yes,375
+KYyXQOng,4C Yellow,oqDDefyM,22,Medical College Thiruvananthapuram,8.521983909,76.92971502,KSRTC,Yes,Yes,Yes,874
+KYyXQOng,4C Yellow,TOAODmRx,23,Ulloor,8.529734101,76.9298994,KSRTC,No,Yes,Yes,862
+KYyXQOng,4C Yellow,sWtBXRCm,24,FCI,8.529132355,76.93486852,KSRTC,No,Yes,Yes,550
+KYyXQOng,4C Yellow,HvkFRMqQ,25,Kesavadasapuram,8.530511785,76.93881891,KSRTC,Yes,Yes,Yes,460
+KYyXQOng,4C Yellow,IUIPEFea,26,MG College,8.532314834,76.94034886,KSRTC,No,Yes,Yes,261
+KYyXQOng,4C Yellow,DjLJKiRg,27,Paruthippara,8.535063297,76.94277189,KSRTC,No,Yes,Yes,405
+KYyXQOng,4C Yellow,swsVLsUF,28,Muttada St Joseph School,8.535441744,76.94446509,KSRTC,No,Yes,Yes,190
+KYyXQOng,4C Yellow,nlBTyYjt,29,Muttada,8.534779188,76.94906244,KSRTC,No,Yes,Yes,510
+KYyXQOng,4C Yellow,eOirqAjO,30,Vayalikada,8.533097,76.9535,KSRTC,No,Yes,Yes,522
+KYyXQOng,4C Yellow,uENEYvCK,31,Jala Vijnana Bhavan,8.531539048,76.95807936,KSRTC,No,Yes,Yes,532
+KYyXQOng,4C Yellow,JyGrMorN,32,Santhwana Junction,8.531841491,76.96012793,KSRTC,No,Yes,Yes,227
+KYyXQOng,4C Yellow,eAbVJywN,33,Ambalamukku,8.532537347,76.96222934,KSRTC,Yes,Yes,Yes,243
+KYyXQOng,4C Yellow,TfJZGmHS,34,Peroorkada Thankamma Stadium,8.534301538,76.96370545,KSRTC,No,Yes,Yes,254
+KYyXQOng,4C Yellow,RQwyoCIz,35,Peroorkada Junction,8.537199999,76.96574785,KSRTC,No,Yes,Yes,392
+KYyXQOng,4C Yellow,AovZQjSm,36,Peroorkada Depot,8.534864829,76.96761011,KSRTC,Yes,Yes,Yes,330
+kjPduide,8A Air Rail,OAEOpFGZ,1,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,Yes,Yes,Yes,0
+kjPduide,8A Air Rail,HJhkvSOR,2,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,89
+kjPduide,8A Air Rail,npYjXutS,3,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+kjPduide,8A Air Rail,zvPuxLBv,4,Ayurveda College,8.491513879,76.94710121,KSRTC,No,Yes,Yes,432
+kjPduide,8A Air Rail,yjlvaCfU,5,Statue BSNL,8.49292232,76.94746757,KSRTC,Yes,Yes,Yes,161
+kjPduide,8A Air Rail,DKkpzmGs,6,VJT Hall,8.50267911,76.94937318,KSRTC,No,Yes,Yes,1104
+kjPduide,8A Air Rail,XOMRKFga,7,Kerala University,8.503468561,76.94886046,KSRTC,No,Yes,Yes,104
+kjPduide,8A Air Rail,zGcFNiZX,8,General Hospital Trivandrum,8.499261604,76.94314107,KSRTC,No,Yes,Yes,783
+kjPduide,8A Air Rail,WStdwMIf,9,Government Eye Hospital,8.499176301,76.94111487,KSRTC,No,Yes,Yes,223
+kjPduide,8A Air Rail,hxwMDkWk,10,Pattoor Junction,8.497646206,76.93746596,KSRTC,Yes,Yes,Yes,435
+kjPduide,8A Air Rail,XZMiiCPZ,11,Pettah Pallimukku Junction,8.496560145,76.93243873,KSRTC,No,Yes,Yes,565
+kjPduide,8A Air Rail,jUAridAR,12,Pettah KEPCO,8.49436902,76.9283177,KSRTC,No,Yes,Yes,514
+kjPduide,8A Air Rail,UMeJYmjJ,13,Chakai,8.492087714,76.92321345,KSRTC,No,Yes,Yes,615
+kjPduide,8A Air Rail,XmhEJFqQ,14,KSEB Chakkai,8.488603601,76.91908114,KSRTC,Yes,Yes,Yes,597
+kjPduide,8A Air Rail,ZwXMZMtN,15,International Airport Front Gate,8.488778394,76.92561994,KSRTC,No,Yes,Yes,719
+kjPduide,8A Air Rail,nlRJiwKD,16,Thiruvananthapuram International Airport,8.487968829,76.92245407,KSRTC,No,Yes,Yes,359
+kjPduide,8A Air Rail,UgkdzLeX,17,ITI Chakai,8.489811699,76.91727008,KSRTC,No,Yes,Yes,605
+kjPduide,8A Air Rail,BGCXRNjg,18,Brahmos Aero Space,8.491218397,76.91292801,KSRTC,No,Yes,Yes,502
+kjPduide,8A Air Rail,GNzTqAOj,19,Mathilakkam,8.493961284,76.91038387,KSRTC,No,Yes,Yes,413
+kjPduide,8A Air Rail,PNNTNmXb,20,All Saints College,8.495832363,76.90816286,KSRTC,No,Yes,Yes,320
+kjPduide,8A Air Rail,muoIOZGg,21,All Saints Church,8.49479438,76.90709707,KSRTC,No,Yes,Yes,164
+kjPduide,8A Air Rail,PyUTGOrS,22,Juma Masjid,8.49342253,76.90616848,KSRTC,No,Yes,Yes,183
+kjPduide,8A Air Rail,wEbnqAJE,23,Rajeev Nagar,8.491709521,76.90843035,KSRTC,No,Yes,Yes,313
+kjPduide,8A Air Rail,VHhWyaRX,24,GV Raja,8.488640026,76.91134802,KSRTC,No,Yes,Yes,468
+kjPduide,8A Air Rail,vHLiGOuy,25,Shangumukham Beach,8.480263974,76.91288235,KSRTC,Yes,Yes,Yes,946
+kjPduide,8A Air Rail,qGUGhMZO,26,Aircargo Shangumukham,8.477629154,76.91329143,KSRTC,No,Yes,Yes,296
+kjPduide,8A Air Rail,bnhxykrn,27,Valiya Thoppe,8.476045456,76.91708109,KSRTC,No,Yes,Yes,452
+kjPduide,8A Air Rail,RKzUcOaR,28,Trivandrum Domestic Airport,8.476186072,76.91871308,KSRTC,No,Yes,Yes,180
+kjPduide,8A Air Rail,svJHtoJO,29,Thiruvananthapuram Airport Junction,8.474685315,76.91988286,KSRTC,No,Yes,Yes,210
+kjPduide,8A Air Rail,OPUaRqXq,30,Kochuthoppe,8.47214629,76.92227755,KSRTC,No,Yes,Yes,386
+kjPduide,8A Air Rail,dOrPSxDx,31,FCI Warehouse Valiyathura,8.47090125,76.92311113,KSRTC,No,Yes,Yes,166
+kjPduide,8A Air Rail,vjCPpZkY,32,Kuzhivilakam Junction,8.46592296,76.92455945,KSRTC,No,Yes,Yes,576
+kjPduide,8A Air Rail,nuERCZUx,33,Valiyathura Shangumugam,8.464468482,76.9256773,KSRTC,Yes,Yes,Yes,203
+kjPduide,8A Air Rail,iTYNNQXv,34,OLG Nagar,8.468152142,76.92753434,KSRTC,No,Yes,Yes,457
+kjPduide,8A Air Rail,pHfbuhXR,35,Thoppinakam,8.468680992,76.92776138,KSRTC,No,Yes,Yes,63
+kjPduide,8A Air Rail,oUMINJnS,36,Francis Xavierc Church,8.467862534,76.92919964,KSRTC,No,Yes,Yes,182
+kjPduide,8A Air Rail,ovIrKOPk,37,Bangladesh Colony,8.466912836,76.93039482,KSRTC,No,Yes,Yes,168
+kjPduide,8A Air Rail,sZZBiRHl,38,Priyadarshini Nagar,8.467429751,76.93163744,KSRTC,No,Yes,Yes,148
+kjPduide,8A Air Rail,pWaNdXAY,39,Ponnara Bridge,8.468051314,76.93289194,KSRTC,No,Yes,Yes,154
+kjPduide,8A Air Rail,AtWVJpuJ,40,Ponnara School,8.468759475,76.93420484,KSRTC,Yes,Yes,Yes,164
+kjPduide,8A Air Rail,zHeBMtiA,41,Kallumoodu,8.4696326,76.93589608,KSRTC,No,Yes,Yes,209
+kjPduide,8A Air Rail,VGsiqcBH,42,Parambil Nagar,8.47168603,76.94073901,KSRTC,No,Yes,Yes,579
+kjPduide,8A Air Rail,ZLBwvMVl,43,Mukkolakkal Temple,8.473488792,76.94235269,KSRTC,No,Yes,Yes,267
+kjPduide,8A Air Rail,RYtTtAyz,44,Manacaud,8.47529684,76.94748224,KSRTC,No,Yes,Yes,598
+kjPduide,8A Air Rail,TotmgOIU,45,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,946
+kjPduide,8A Air Rail,eMZxNslv,46,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,538
+kjPduide,8A Air Rail,bcocHkFX,47,Thampanoor Main Bus Stand,8.487630643,76.95134761,KSRTC,Yes,Yes,Yes,146
+GECOAFKl,13C Cyan,OAEOpFGZ,1,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,Yes,Yes,Yes,0
+GECOAFKl,13C Cyan,HJhkvSOR,2,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,89
+GECOAFKl,13C Cyan,npYjXutS,3,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+GECOAFKl,13C Cyan,EtnfKXha,4,East Fort North Bus Stand,8.483820321,76.94777719,KSRTC,No,Yes,Yes,468
+GECOAFKl,13C Cyan,kgKXMCYO,5,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,No,Yes,Yes,241
+GECOAFKl,13C Cyan,bWHnWdjS,6,Manacaud,8.475308065,76.94759471,KSRTC,No,Yes,Yes,706
+GECOAFKl,13C Cyan,DiRSpHjs,7,Kamaleswaram,8.46763,76.948275,KSRTC,Yes,Yes,Yes,857
+GECOAFKl,13C Cyan,hDJtreku,8,Kallettumukku,8.461926198,76.95019449,KSRTC,No,Yes,Yes,668
+GECOAFKl,13C Cyan,SALGnZmB,9,National Engineering College,8.458256656,76.95068452,KSRTC,No,Yes,Yes,411
+GECOAFKl,13C Cyan,isIMYOQh,10,Paravankunnu,8.455817631,76.9499254,KSRTC,No,Yes,Yes,283
+GECOAFKl,13C Cyan,EQZhyRzP,11,Ambalathara,8.452748949,76.95095463,KSRTC,No,Yes,Yes,359
+GECOAFKl,13C Cyan,oJQLHrdM,12,Kumarichantha,8.448823424,76.9478307,KSRTC,Yes,Yes,Yes,555
+GECOAFKl,13C Cyan,ZjePRPld,13,Poothura Police Station,8.447495858,76.94658732,KSRTC,No,Yes,Yes,201
+GECOAFKl,13C Cyan,QoVPYAAo,14,Manikkavilakam,8.452888,76.943105,KSRTC,No,Yes,Yes,711
+GECOAFKl,13C Cyan,qWHcwgxu,15,Milk Colony,8.455728,76.941086,KSRTC,No,Yes,Yes,386
+GECOAFKl,13C Cyan,kwhdFvvh,16,Badariya Nagar,8.45861,76.939107,KSRTC,No,Yes,Yes,387
+GECOAFKl,13C Cyan,zXAUEjSz,17,Beemapalli Back,8.456793643,76.93587834,KSRTC,Yes,Yes,Yes,408
+GECOAFKl,13C Cyan,ImEifImb,18,Cheriyathura,8.460899,76.933455,KSRTC,No,Yes,Yes,528
+GECOAFKl,13C Cyan,vfiORWlE,19,Muttathara Engineering College,8.463069673,76.9320506,KSRTC,No,Yes,Yes,286
+GECOAFKl,13C Cyan,ojJGPmGD,20,Perunalli Bridge,8.465341894,76.9344215,KSRTC,No,Yes,Yes,363
+GECOAFKl,13C Cyan,zHeBMtiA,21,Kallumoodu,8.4696326,76.93589608,KSRTC,No,Yes,Yes,503
+GECOAFKl,13C Cyan,VGsiqcBH,22,Parambil Nagar,8.47168603,76.94073901,KSRTC,No,Yes,Yes,579
+GECOAFKl,13C Cyan,ZLBwvMVl,23,Mukkolakkal Temple,8.473488792,76.94235269,KSRTC,No,Yes,Yes,267
+GECOAFKl,13C Cyan,RYtTtAyz,24,Manacaud,8.47529684,76.94748224,KSRTC,Yes,Yes,Yes,598
+GECOAFKl,13C Cyan,leeDbqil,25,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,No,Yes,Yes,727
+GECOAFKl,13C Cyan,TotmgOIU,26,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,219
+GECOAFKl,13C Cyan,eMZxNslv,27,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,538
+GECOAFKl,13C Cyan,vcHPwTmX,28,Thampanoor Main Bus Stand,8.487671098,76.95195397,KSRTC,Yes,Yes,Yes,210
+oletOukf,13A Cyan,OAEOpFGZ,1,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,Yes,Yes,Yes,0
+oletOukf,13A Cyan,HJhkvSOR,2,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,89
+oletOukf,13A Cyan,AfjcCcCM,3,Thampanoor KTDC Chaithram,8.487778082,76.95017172,KSRTC,No,Yes,Yes,236
+oletOukf,13A Cyan,EtnfKXha,4,East Fort North Bus Stand,8.483820321,76.94777719,KSRTC,No,Yes,Yes,512
+oletOukf,13A Cyan,kgKXMCYO,5,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,No,Yes,Yes,241
+oletOukf,13A Cyan,bWHnWdjS,6,Manacaud,8.475308065,76.94759471,KSRTC,No,Yes,Yes,706
+oletOukf,13A Cyan,Scxyofsi,7,Mukkolakkal Temple,8.473409326,76.94230661,KSRTC,Yes,Yes,Yes,618
+oletOukf,13A Cyan,AOcCSyql,8,Parambil Nagar,8.471757301,76.94087656,KSRTC,No,Yes,Yes,241
+oletOukf,13A Cyan,VLHmbGyx,9,Kallumoodu,8.469641082,76.93606864,KSRTC,No,Yes,Yes,578
+oletOukf,13A Cyan,XSxnoEAe,10,Perunalli Bridge,8.465230448,76.93430982,KSRTC,No,Yes,Yes,527
+oletOukf,13A Cyan,jDvceZeL,11,Muttathara Engineering College,8.463115105,76.93204873,KSRTC,No,Yes,Yes,342
+oletOukf,13A Cyan,BXVxavDm,12,Cheriyathura,8.460864776,76.93353669,KSRTC,No,Yes,Yes,298
+oletOukf,13A Cyan,gFRVuIwJ,13,Beemapalli Back,8.456698375,76.9360741,KSRTC,Yes,Yes,Yes,540
+oletOukf,13A Cyan,BpVhQIsz,14,Badariya Nagar,8.45863712,76.93929048,KSRTC,No,Yes,Yes,414
+oletOukf,13A Cyan,GKVuCDJu,15,Milk Colony,8.455681265,76.94115229,KSRTC,No,Yes,Yes,387
+oletOukf,13A Cyan,aqEJCxEe,16,Manikkavilakam,8.452752285,76.94324396,KSRTC,No,Yes,Yes,398
+oletOukf,13A Cyan,XXnZKzjZ,17,Poothura Police Station,8.447470584,76.94651504,KSRTC,No,Yes,Yes,688
+oletOukf,13A Cyan,dJJZZnyC,18,Puthenpally,8.448846,76.947781,KSRTC,No,Yes,Yes,206
+oletOukf,13A Cyan,TQTQKvTM,19,Ambalathara,8.45271191,76.95090238,KSRTC,Yes,Yes,Yes,550
+oletOukf,13A Cyan,vkDnhzdd,20,Paravankunnu,8.45613289,76.94991825,KSRTC,No,Yes,Yes,395
+oletOukf,13A Cyan,MsFIEbeI,21,National Engineering College,8.458379192,76.95062187,KSRTC,No,Yes,Yes,261
+oletOukf,13A Cyan,WoKWlsoE,22,Kallettumukku,8.461974062,76.95014558,KSRTC,No,Yes,Yes,403
+oletOukf,13A Cyan,MGwpOxFw,23,Kamaleswaram,8.467698417,76.94818364,KSRTC,No,Yes,Yes,672
+oletOukf,13A Cyan,RYtTtAyz,24,Manacaud,8.47529684,76.94748224,KSRTC,Yes,Yes,Yes,848
+oletOukf,13A Cyan,leeDbqil,25,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,No,Yes,Yes,727
+oletOukf,13A Cyan,TotmgOIU,26,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,219
+oletOukf,13A Cyan,eMZxNslv,27,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,538
+oletOukf,13A Cyan,vcHPwTmX,28,Thampanoor Main Bus Stand,8.487671098,76.95195397,KSRTC,Yes,Yes,Yes,210
+wjQrkWYE,12C Olive,OAEOpFGZ,1,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,Yes,Yes,Yes,0
+wjQrkWYE,12C Olive,HJhkvSOR,2,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,89
+wjQrkWYE,12C Olive,AfjcCcCM,3,Thampanoor KTDC Chaithram,8.487778082,76.95017172,KSRTC,No,Yes,Yes,236
+wjQrkWYE,12C Olive,EtnfKXha,4,East Fort North Bus Stand,8.483820321,76.94777719,KSRTC,No,Yes,Yes,512
+wjQrkWYE,12C Olive,kgKXMCYO,5,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,No,Yes,Yes,241
+wjQrkWYE,12C Olive,zEedcDER,6,Attakulangara,8.479025009,76.94714552,KSRTC,No,Yes,Yes,296
+wjQrkWYE,12C Olive,rJfnkWlc,7,Azhikkotta Junction,8.478938,76.942089,KSRTC,No,Yes,Yes,556
+wjQrkWYE,12C Olive,IYAKZgnP,8,Kothalam Junction,8.478825,76.939571,KSRTC,No,Yes,Yes,277
+wjQrkWYE,12C Olive,luDjUmcP,9,Enchakkal,8.479708,76.933943,KSRTC,Yes,Yes,Yes,626
+wjQrkWYE,12C Olive,SWciPFsM,10,Vallakadavu,8.478275,76.931531,KSRTC,No,Yes,Yes,309
+wjQrkWYE,12C Olive,VICoxcHw,11,Ponnara Bridge,8.468007901,76.93291893,KSRTC,No,Yes,Yes,1151
+wjQrkWYE,12C Olive,qflTiOlz,12,Bangladesh Colony,8.46675398,76.93026795,KSRTC,No,Yes,Yes,323
+wjQrkWYE,12C Olive,txkFPXQG,13,Francis Xavierc Church,8.467768539,76.92920007,KSRTC,No,Yes,Yes,162
+wjQrkWYE,12C Olive,TwPNauMc,14,Thoppinakam,8.468665969,76.92775085,KSRTC,No,Yes,Yes,188
+wjQrkWYE,12C Olive,mpmHbiGU,15,Valiyathura ITI,8.470217889,76.92809084,KSRTC,Yes,Yes,Yes,176
+wjQrkWYE,12C Olive,OdSlbIWA,16,Sulaiman Street,8.473534,76.924914,KSRTC,No,Yes,Yes,507
+wjQrkWYE,12C Olive,JTKJBwzw,17,Thiruvananthapuram Airport Junction,8.475421019,76.91840623,KSRTC,No,Yes,Yes,745
+wjQrkWYE,12C Olive,gXPDavGK,18,Valiya Thoppe,8.475914289,76.9172405,KSRTC,No,Yes,Yes,139
+wjQrkWYE,12C Olive,WvqEVfVs,19,Aircargo Shangumukham,8.47758198,76.91329795,KSRTC,No,Yes,Yes,471
+wjQrkWYE,12C Olive,tFxuvaSF,20,Shangumukham Beach,8.480821822,76.91271835,KSRTC,Yes,Yes,Yes,365
+wjQrkWYE,12C Olive,JjCutTwO,21,GV Raja,8.488536235,76.91127943,KSRTC,No,Yes,Yes,872
+wjQrkWYE,12C Olive,kDuzZnLO,22,Rajeev Nagar,8.491639269,76.90834139,KSRTC,No,Yes,Yes,472
+wjQrkWYE,12C Olive,zspyjvRq,23,Juma Masjid,8.493720352,76.90597069,KSRTC,No,Yes,Yes,348
+wjQrkWYE,12C Olive,qoMfPOkM,24,All Saints College,8.495991547,76.90816999,KSRTC,No,Yes,Yes,349
+wjQrkWYE,12C Olive,tBfirJok,25,Mathilakkam,8.493918718,76.91063578,KSRTC,No,Yes,Yes,355
+wjQrkWYE,12C Olive,lHrUwTSg,26,Brahmos Aero Space,8.491746812,76.91256983,KSRTC,No,Yes,Yes,321
+wjQrkWYE,12C Olive,aeXTxwab,27,ITI Chakai,8.490571117,76.91657674,KSRTC,No,Yes,Yes,459
+wjQrkWYE,12C Olive,hiEwRdbC,28,KSEB Chakkai,8.488647481,76.9189953,KSRTC,Yes,Yes,Yes,341
+wjQrkWYE,12C Olive,orBMgscL,29,Airport North Gate International,8.489963117,76.92029574,KSRTC,No,Yes,Yes,204
+wjQrkWYE,12C Olive,EDJqjtIK,30,Chakai,8.492275136,76.92333942,KSRTC,No,Yes,Yes,422
+wjQrkWYE,12C Olive,EbuQvXIb,31,Pettah KEPCO,8.494493716,76.92833385,KSRTC,No,Yes,Yes,602
+wjQrkWYE,12C Olive,vbjKVnBk,32,Pettah Pallimukku Junction,8.496755,76.932508,KSRTC,No,Yes,Yes,523
+wjQrkWYE,12C Olive,qDoLmmyu,33,Pattoor Junction,8.49772524,76.93743329,KSRTC,Yes,Yes,Yes,552
+wjQrkWYE,12C Olive,pIEFWcHj,34,Government Eye Hospital,8.499309024,76.94108404,KSRTC,No,Yes,Yes,438
+wjQrkWYE,12C Olive,rxHYKxiM,35,General Hospital Trivandrum,8.499330365,76.94281039,KSRTC,No,Yes,Yes,189
+wjQrkWYE,12C Olive,MCygkfJZ,36,Kerala University,8.503695358,76.94854828,KSRTC,No,Yes,Yes,796
+wjQrkWYE,12C Olive,SNpenkdA,37,Palayam Saphalyam,8.502484833,76.95027772,KSRTC,Yes,Yes,Yes,233
+wjQrkWYE,12C Olive,gAUlVhoR,38,Statue SBI,8.497033285,76.94846153,KSRTC,No,Yes,Yes,638
+wjQrkWYE,12C Olive,iXphFurG,39,Ayurveda College,8.491217648,76.94718051,KSRTC,No,Yes,Yes,661
+wjQrkWYE,12C Olive,POCqSlvb,40,Overbridge Pulimoodu,8.489326522,76.94737933,KSRTC,No,Yes,Yes,211
+wjQrkWYE,12C Olive,pMpOGtHk,41,Thampanoor KTDC Chaithram,8.487971589,76.94988813,KSRTC,No,Yes,Yes,314
+wjQrkWYE,12C Olive,vcHPwTmX,42,Thampanoor Main Bus Stand,8.487671098,76.95195397,KSRTC,Yes,Yes,Yes,229
+CbNVHmOv,10A Indigo,OAEOpFGZ,1,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,Yes,Yes,Yes,0
+CbNVHmOv,10A Indigo,HfjUFqzi,2,Thampanoor Railway Station,8.487602331,76.95244127,KSRTC,No,Yes,Yes,97
+CbNVHmOv,10A Indigo,npYjXutS,3,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,417
+CbNVHmOv,10A Indigo,EtnfKXha,4,East Fort North Bus Stand,8.483820321,76.94777719,KSRTC,No,Yes,Yes,468
+CbNVHmOv,10A Indigo,kgKXMCYO,5,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,No,Yes,Yes,241
+CbNVHmOv,10A Indigo,bWHnWdjS,6,Manacaud,8.475308065,76.94759471,KSRTC,No,Yes,Yes,706
+CbNVHmOv,10A Indigo,DiRSpHjs,7,Kamaleswaram,8.46763,76.948275,KSRTC,Yes,Yes,Yes,857
+CbNVHmOv,10A Indigo,hDJtreku,8,Kallettumukku,8.461926198,76.95019449,KSRTC,No,Yes,Yes,668
+CbNVHmOv,10A Indigo,SALGnZmB,9,National Engineering College,8.458256656,76.95068452,KSRTC,No,Yes,Yes,411
+CbNVHmOv,10A Indigo,isIMYOQh,10,Paravankunnu,8.455817631,76.9499254,KSRTC,No,Yes,Yes,283
+CbNVHmOv,10A Indigo,EQZhyRzP,11,Ambalathara,8.452748949,76.95095463,KSRTC,Yes,Yes,Yes,359
+CbNVHmOv,10A Indigo,LMjxAwGO,12,Milma Junction,8.44872023,76.95198424,KSRTC,Yes,Yes,Yes,462
+CbNVHmOv,10A Indigo,rmVpDUiF,13,Thiruvallam,8.441097678,76.95507519,KSRTC,No,Yes,Yes,913
+CbNVHmOv,10A Indigo,rgAOHCvw,14,Milma Junction,8.448199668,76.9518238,KSRTC,No,Yes,Yes,866
+CbNVHmOv,10A Indigo,UOtpKLOq,15,Kalladi Mugham,8.456701327,76.95757385,KSRTC,No,Yes,Yes,1137
+CbNVHmOv,10A Indigo,POoNMKqq,16,Konchiravila Temple,8.462358878,76.95631911,KSRTC,No,Yes,Yes,644
+CbNVHmOv,10A Indigo,PuslwMFo,17,Konchiravila UP School,8.463763853,76.95440503,KSRTC,No,Yes,Yes,262
+CbNVHmOv,10A Indigo,qjhcETQD,18,Manacaud Valiya Palli,8.469774465,76.9506943,KSRTC,No,Yes,Yes,783
+CbNVHmOv,10A Indigo,SPZXmyCt,19,Kalippankulam,8.472234488,76.94950402,KSRTC,No,Yes,Yes,303
+CbNVHmOv,10A Indigo,JvpgDvfp,20,Manacaud,8.475422218,76.94831777,KSRTC,Yes,Yes,Yes,377
+CbNVHmOv,10A Indigo,leeDbqil,21,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,No,Yes,Yes,720
+CbNVHmOv,10A Indigo,TotmgOIU,22,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,219
+CbNVHmOv,10A Indigo,eMZxNslv,23,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,538
+CbNVHmOv,10A Indigo,vcHPwTmX,24,Thampanoor Main Bus Stand,8.487671098,76.95195397,KSRTC,Yes,Yes,Yes,210
+HjcpwbJQ,5C Violet,AovZQjSm,1,Peroorkada Depot,8.534864829,76.96761011,KSRTC,Yes,Yes,Yes,0
+HjcpwbJQ,5C Violet,uwApsmFn,2,Oolampara HLL Lifecare Ltd,8.527903394,76.96908742,KSRTC,No,Yes,Yes,790
+HjcpwbJQ,5C Violet,IWpJqtsD,3,Oolampara Mental Health Centre,8.526839499,76.96957178,KSRTC,No,Yes,Yes,129
+HjcpwbJQ,5C Violet,pGacPKxk,4,SAP Camp,8.525413031,76.96981475,KSRTC,No,Yes,Yes,160
+HjcpwbJQ,5C Violet,KiADLern,5,Swathi Nagar,8.521713906,76.97165006,KSRTC,No,Yes,Yes,458
+HjcpwbJQ,5C Violet,JNROXEJp,6,Paippinmoodu,8.518753712,76.97232988,KSRTC,Yes,Yes,Yes,337
+HjcpwbJQ,5C Violet,gGEEDcie,7,Sasthamangalam,8.512254884,76.97144912,KSRTC,No,Yes,Yes,729
+HjcpwbJQ,5C Violet,VoaLdtmh,8,Alakapuri Convention Centre,8.507740995,76.97059332,KSRTC,No,Yes,Yes,510
+HjcpwbJQ,5C Violet,idjdhcTr,9,Edapazhanji Pangode Fish Market,8.504866123,76.96924534,KSRTC,No,Yes,Yes,352
+HjcpwbJQ,5C Violet,uSZGULSI,10,Easwara Vilasam Cotton Hill School,8.502059629,76.96384895,KSRTC,Yes,Yes,Yes,670
+HjcpwbJQ,5C Violet,dvkQlQAD,11,Survey Directorate,8.50177231,76.96034795,KSRTC,No,Yes,Yes,386
+HjcpwbJQ,5C Violet,JguRmBDq,12,Vazhuthacaud Kalabhavan Theatre,8.500187363,76.95817043,KSRTC,No,Yes,Yes,297
+HjcpwbJQ,5C Violet,sSOeZMFf,13,Bharat Bhavan,8.495235257,76.9582852,KSRTC,No,Yes,Yes,550
+HjcpwbJQ,5C Violet,TuWTNtdH,14,Norka,8.49368465,76.95814122,KSRTC,No,Yes,Yes,173
+HjcpwbJQ,5C Violet,UeKKYzgK,15,Police Training College Thiruvananthapuram,8.492990715,76.95877083,KSRTC,No,Yes,Yes,103
+HjcpwbJQ,5C Violet,OrAFwGRd,16,Mettukada,8.490063926,76.95796366,KSRTC,Yes,Yes,Yes,337
+HjcpwbJQ,5C Violet,kUodGeSM,17,Thycaud Hospital,8.487767642,76.95668138,KSRTC,No,Yes,Yes,291
+HjcpwbJQ,5C Violet,HJhkvSOR,18,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,484
+HjcpwbJQ,5C Violet,npYjXutS,19,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+HjcpwbJQ,5C Violet,zvPuxLBv,20,Ayurveda College,8.491513879,76.94710121,KSRTC,No,Yes,Yes,432
+HjcpwbJQ,5C Violet,yjlvaCfU,21,Statue BSNL,8.49292232,76.94746757,KSRTC,Yes,Yes,Yes,161
+HjcpwbJQ,5C Violet,LeDvDLlR,22,Statue SBI,8.496653276,76.94829188,KSRTC,No,Yes,Yes,424
+HjcpwbJQ,5C Violet,LPwlvAzx,23,Palayam Chandrasekharan Nair Stadium,8.504429764,76.95113128,KSRTC,No,Yes,Yes,919
+HjcpwbJQ,5C Violet,wHYROrNo,24,Niyamasabha,8.506740325,76.95052704,KSRTC,No,Yes,Yes,265
+HjcpwbJQ,5C Violet,QJvMaiRe,25,LMS Mascot Hotel,8.508870219,76.95069678,KSRTC,No,Yes,Yes,237
+HjcpwbJQ,5C Violet,xuCOYUst,26,Museum Public Office Complex,8.508408668,76.95403901,KSRTC,Yes,Yes,Yes,371
+HjcpwbJQ,5C Violet,zcGVCRnm,27,Kanakakunnu,8.5096126,76.95826226,KSRTC,No,Yes,Yes,483
+HjcpwbJQ,5C Violet,DtDkNEWV,28,Vellayambalam,8.511934115,76.96218938,KSRTC,No,Yes,Yes,503
+HjcpwbJQ,5C Violet,WXyPFzrt,29,Raj Bhavan Or Jawahar Nagar,8.517112679,76.96055344,KSRTC,No,Yes,Yes,603
+HjcpwbJQ,5C Violet,pdeePVkH,30,TTC Kowdiar,8.519551222,76.96062466,KSRTC,No,Yes,Yes,271
+HjcpwbJQ,5C Violet,AaXGlJaG,31,Kowdiar,8.522644556,76.96049433,KSRTC,Yes,Yes,Yes,344
+HjcpwbJQ,5C Violet,JmYvAogb,32,Narmadha Toll Junction,8.526901208,76.96037751,KSRTC,No,Yes,Yes,473
+HjcpwbJQ,5C Violet,eAbVJywN,33,Ambalamukku,8.532537347,76.96222934,KSRTC,No,Yes,Yes,658
+HjcpwbJQ,5C Violet,TfJZGmHS,34,Peroorkada Thankamma Stadium,8.534301538,76.96370545,KSRTC,No,Yes,Yes,254
+HjcpwbJQ,5C Violet,RQwyoCIz,35,Peroorkada Junction,8.537199999,76.96574785,KSRTC,No,Yes,Yes,392
+HjcpwbJQ,5C Violet,QxZamfbS,36,Peroorkada Depot,8.534707787,76.96753619,KSRTC,Yes,Yes,Yes,339
+kRRljYwx,1C Red,leeDbqil,1,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,Yes,Yes,Yes,0
+kRRljYwx,1C Red,TotmgOIU,2,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,219
+kRRljYwx,1C Red,pMpOGtHk,3,Thampanoor KTDC Chaithram,8.487971589,76.94988813,KSRTC,No,Yes,Yes,529
+kRRljYwx,1C Red,OAEOpFGZ,4,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,No,Yes,Yes,186
+kRRljYwx,1C Red,HfjUFqzi,5,Thampanoor Railway Station,8.487602331,76.95244127,KSRTC,No,Yes,Yes,97
+kRRljYwx,1C Red,zYiXliXa,6,Thampanoor RMS,8.488012061,76.94806718,KSRTC,No,Yes,Yes,483
+kRRljYwx,1C Red,zvPuxLBv,7,Ayurveda College,8.491513879,76.94710121,KSRTC,No,Yes,Yes,403
+kRRljYwx,1C Red,yjlvaCfU,8,Statue BSNL,8.49292232,76.94746757,KSRTC,Yes,Yes,Yes,161
+kRRljYwx,1C Red,LeDvDLlR,9,Statue SBI,8.496653276,76.94829188,KSRTC,No,Yes,Yes,424
+kRRljYwx,1C Red,DKkpzmGs,10,VJT Hall,8.50267911,76.94937318,KSRTC,No,Yes,Yes,680
+kRRljYwx,1C Red,MCygkfJZ,11,Kerala University,8.503695358,76.94854828,KSRTC,No,Yes,Yes,144
+kRRljYwx,1C Red,LPwlvAzx,12,Palayam Chandrasekharan Nair Stadium,8.504429764,76.95113128,KSRTC,No,Yes,Yes,295
+kRRljYwx,1C Red,wHYROrNo,13,Niyamasabha,8.506740325,76.95052704,KSRTC,No,Yes,Yes,265
+kRRljYwx,1C Red,QJvMaiRe,14,LMS Mascot Hotel,8.508870219,76.95069678,KSRTC,No,Yes,Yes,237
+kRRljYwx,1C Red,xuCOYUst,15,Museum Public Office Complex,8.508408668,76.95403901,KSRTC,No,Yes,Yes,371
+kRRljYwx,1C Red,zcGVCRnm,16,Kanakakunnu,8.5096126,76.95826226,KSRTC,No,Yes,Yes,483
+kRRljYwx,1C Red,HFNKBjwv,17,Vellayambalam,8.510971677,76.96145289,KSRTC,Yes,Yes,Yes,382
+kRRljYwx,1C Red,LOEdhtvo,18,Police Head Quarters Thiruvananthapuram,8.506903979,76.96194359,KSRTC,No,Yes,Yes,455
+kRRljYwx,1C Red,nGiNXqXd,19,Forest Head Quarters,8.502673953,76.95972677,KSRTC,No,Yes,Yes,529
+kRRljYwx,1C Red,JguRmBDq,20,Vazhuthacaud Kalabhavan Theatre,8.500187363,76.95817043,KSRTC,Yes,Yes,Yes,325
+kRRljYwx,1C Red,sSOeZMFf,21,Bharat Bhavan,8.495235257,76.9582852,KSRTC,No,Yes,Yes,550
+kRRljYwx,1C Red,TuWTNtdH,22,Norka,8.49368465,76.95814122,KSRTC,No,Yes,Yes,173
+kRRljYwx,1C Red,UeKKYzgK,23,Police Training College Thiruvananthapuram,8.492990715,76.95877083,KSRTC,No,Yes,Yes,103
+kRRljYwx,1C Red,OrAFwGRd,24,Mettukada,8.490063926,76.95796366,KSRTC,Yes,Yes,Yes,337
+kRRljYwx,1C Red,kUodGeSM,25,Thycaud Hospital,8.487767642,76.95668138,KSRTC,No,Yes,Yes,291
+kRRljYwx,1C Red,HJhkvSOR,26,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,484
+kRRljYwx,1C Red,npYjXutS,27,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+kRRljYwx,1C Red,kgKXMCYO,28,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,Yes,Yes,Yes,708
+RHbhUtup,8C Air Rail,OAEOpFGZ,1,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,Yes,Yes,Yes,0
+RHbhUtup,8C Air Rail,HfjUFqzi,2,Thampanoor Railway Station,8.487602331,76.95244127,KSRTC,No,Yes,Yes,97
+RHbhUtup,8C Air Rail,npYjXutS,3,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,417
+RHbhUtup,8C Air Rail,kgKXMCYO,4,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,No,Yes,Yes,708
+RHbhUtup,8C Air Rail,bWHnWdjS,5,Manacaud,8.475308065,76.94759471,KSRTC,No,Yes,Yes,706
+RHbhUtup,8C Air Rail,UmzXrxUf,6,Poyani Junction,8.474688057,76.94418857,KSRTC,No,Yes,Yes,380
+RHbhUtup,8C Air Rail,Scxyofsi,7,Mukkolakkal Temple,8.473409326,76.94230661,KSRTC,No,Yes,Yes,251
+RHbhUtup,8C Air Rail,AOcCSyql,8,Parambil Nagar,8.471757301,76.94087656,KSRTC,No,Yes,Yes,241
+RHbhUtup,8C Air Rail,euNeetwY,9,Thavaload,8.470374913,76.93835995,KSRTC,No,Yes,Yes,316
+RHbhUtup,8C Air Rail,VLHmbGyx,10,Kallumoodu,8.469641082,76.93606864,KSRTC,No,Yes,Yes,264
+RHbhUtup,8C Air Rail,NBJVHglM,11,Ponnara School,8.468590834,76.93406458,KSRTC,Yes,Yes,Yes,249
+RHbhUtup,8C Air Rail,VICoxcHw,12,Ponnara Bridge,8.468007901,76.93291893,KSRTC,No,Yes,Yes,141
+RHbhUtup,8C Air Rail,KPSdEBmD,13,Priyadarshini Nagar,8.467417229,76.93168611,KSRTC,No,Yes,Yes,150
+RHbhUtup,8C Air Rail,qflTiOlz,14,Bangladesh Colony,8.46675398,76.93026795,KSRTC,No,Yes,Yes,172
+RHbhUtup,8C Air Rail,txkFPXQG,15,Francis Xavierc Church,8.467768539,76.92920007,KSRTC,No,Yes,Yes,162
+RHbhUtup,8C Air Rail,TwPNauMc,16,Thoppinakam,8.468665969,76.92775085,KSRTC,No,Yes,Yes,188
+RHbhUtup,8C Air Rail,bVNjZDFT,17,OLG Nagar,8.468339027,76.92759921,KSRTC,No,Yes,Yes,39
+RHbhUtup,8C Air Rail,XSDjdgbl,18,Valiyathura Shangumugam,8.464656448,76.92608414,KSRTC,Yes,Yes,Yes,442
+RHbhUtup,8C Air Rail,vJTBAwIG,19,Kuzhivilakam Junction,8.467849023,76.92337177,KSRTC,No,Yes,Yes,463
+RHbhUtup,8C Air Rail,OxcolNZq,20,FCI Warehouse Valiyathura,8.470893716,76.92305394,KSRTC,No,Yes,Yes,340
+RHbhUtup,8C Air Rail,NCocqGNJ,21,Kochuthoppe,8.472253022,76.9221186,KSRTC,No,Yes,Yes,182
+RHbhUtup,8C Air Rail,krwAxjld,22,Thiruvananthapuram Airport Junction,8.474696294,76.91976516,KSRTC,No,Yes,Yes,375
+RHbhUtup,8C Air Rail,RKzUcOaR,23,Trivandrum Domestic Airport,8.476186072,76.91871308,KSRTC,No,Yes,Yes,202
+RHbhUtup,8C Air Rail,gXPDavGK,24,Valiya Thoppe,8.475914289,76.9172405,KSRTC,No,Yes,Yes,164
+RHbhUtup,8C Air Rail,WvqEVfVs,25,Aircargo Shangumukham,8.47758198,76.91329795,KSRTC,No,Yes,Yes,471
+RHbhUtup,8C Air Rail,tFxuvaSF,26,Shangumukham Beach,8.480821822,76.91271835,KSRTC,Yes,Yes,Yes,365
+RHbhUtup,8C Air Rail,JjCutTwO,27,GV Raja,8.488536235,76.91127943,KSRTC,No,Yes,Yes,872
+RHbhUtup,8C Air Rail,kDuzZnLO,28,Rajeev Nagar,8.491639269,76.90834139,KSRTC,No,Yes,Yes,472
+RHbhUtup,8C Air Rail,zspyjvRq,29,Juma Masjid,8.493720352,76.90597069,KSRTC,No,Yes,Yes,348
+RHbhUtup,8C Air Rail,qoMfPOkM,30,All Saints College,8.495991547,76.90816999,KSRTC,No,Yes,Yes,349
+RHbhUtup,8C Air Rail,tBfirJok,31,Mathilakkam,8.493918718,76.91063578,KSRTC,No,Yes,Yes,355
+RHbhUtup,8C Air Rail,lHrUwTSg,32,Brahmos Aero Space,8.491746812,76.91256983,KSRTC,No,Yes,Yes,321
+RHbhUtup,8C Air Rail,aeXTxwab,33,ITI Chakai,8.490571117,76.91657674,KSRTC,No,Yes,Yes,459
+RHbhUtup,8C Air Rail,hiEwRdbC,34,KSEB Chakkai,8.488647481,76.9189953,KSRTC,Yes,Yes,Yes,341
+RHbhUtup,8C Air Rail,nlRJiwKD,35,Thiruvananthapuram International Airport,8.487968829,76.92245407,KSRTC,No,Yes,Yes,387
+RHbhUtup,8C Air Rail,EDJqjtIK,36,Chakai,8.492275136,76.92333942,KSRTC,No,Yes,Yes,488
+RHbhUtup,8C Air Rail,EbuQvXIb,37,Pettah KEPCO,8.494493716,76.92833385,KSRTC,No,Yes,Yes,602
+RHbhUtup,8C Air Rail,vbjKVnBk,38,Pettah Pallimukku Junction,8.496755,76.932508,KSRTC,No,Yes,Yes,523
+RHbhUtup,8C Air Rail,qDoLmmyu,39,Pattoor Junction,8.49772524,76.93743329,KSRTC,Yes,Yes,Yes,552
+RHbhUtup,8C Air Rail,pIEFWcHj,40,Government Eye Hospital,8.499309024,76.94108404,KSRTC,No,Yes,Yes,438
+RHbhUtup,8C Air Rail,rxHYKxiM,41,General Hospital Trivandrum,8.499330365,76.94281039,KSRTC,No,Yes,Yes,189
+RHbhUtup,8C Air Rail,MCygkfJZ,42,Kerala University,8.503695358,76.94854828,KSRTC,No,Yes,Yes,796
+RHbhUtup,8C Air Rail,SNpenkdA,43,Palayam Saphalyam,8.502484833,76.95027772,KSRTC,No,Yes,Yes,233
+RHbhUtup,8C Air Rail,gAUlVhoR,44,Statue SBI,8.497033285,76.94846153,KSRTC,Yes,Yes,Yes,638
+RHbhUtup,8C Air Rail,POCqSlvb,45,Overbridge Pulimoodu,8.489326522,76.94737933,KSRTC,No,Yes,Yes,865
+RHbhUtup,8C Air Rail,eMZxNslv,46,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,331
+RHbhUtup,8C Air Rail,bcocHkFX,47,Thampanoor Main Bus Stand,8.487630643,76.95134761,KSRTC,Yes,Yes,Yes,146
+cejmGrmE,6C Brown,leeDbqil,1,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,Yes,Yes,Yes,0
+cejmGrmE,6C Brown,TotmgOIU,2,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,219
+cejmGrmE,6C Brown,eMZxNslv,3,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,538
+cejmGrmE,6C Brown,OAEOpFGZ,4,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,No,Yes,Yes,167
+cejmGrmE,6C Brown,LeryGACE,5,Chenthitta,8.484209285,76.95639464,KSRTC,No,Yes,Yes,665
+cejmGrmE,6C Brown,QpPnTXrZ,6,Valiyashala Mahadeva Temple,8.484139494,76.96011924,KSRTC,Yes,Yes,Yes,409
+cejmGrmE,6C Brown,ylDGJzFx,7,Shanthi Kavadam,8.489159443,76.96138474,KSRTC,No,Yes,Yes,575
+cejmGrmE,6C Brown,IqFExnxN,8,Kannettumukku,8.4915937,76.96147955,KSRTC,No,Yes,Yes,270
+cejmGrmE,6C Brown,NFGNFciM,9,Ananthapuri Auditorium,8.492697214,76.96334088,KSRTC,No,Yes,Yes,238
+cejmGrmE,6C Brown,uEgMyroz,10,Jagathy,8.493949967,76.96372448,KSRTC,Yes,Yes,Yes,145
+cejmGrmE,6C Brown,xQNHAJcP,11,Jagathy Government High School,8.500689113,76.9679383,KSRTC,No,Yes,Yes,881
+cejmGrmE,6C Brown,ReADIyeR,12,Edapazhanji Pangode Fish Market,8.50407082,76.96883923,KSRTC,No,Yes,Yes,388
+cejmGrmE,6C Brown,SQALAdQW,13,Alakapuri Convention Centre,8.507634224,76.9704857,KSRTC,No,Yes,Yes,435
+cejmGrmE,6C Brown,axWbOCVa,14,Sasthamangalam,8.513119232,76.97218692,KSRTC,No,Yes,Yes,637
+cejmGrmE,6C Brown,TZnYYVKr,15,Sri Ramakrishna Hospital,8.513468681,76.97351526,KSRTC,No,Yes,Yes,151
+cejmGrmE,6C Brown,jUifMkUJ,16,Maruthankuzhi,8.514017436,76.97727879,KSRTC,Yes,Yes,Yes,418
+cejmGrmE,6C Brown,aHFebTKv,17,Padayani Road,8.513685303,76.9811533,KSRTC,No,Yes,Yes,427
+cejmGrmE,6C Brown,MvXlpPMS,18,Forest Office PTP Nagar,8.513409789,76.98480299,KSRTC,No,Yes,Yes,402
+cejmGrmE,6C Brown,tZopztHM,19,PTP Nagar,8.512745019,76.98775162,KSRTC,No,Yes,Yes,332
+cejmGrmE,6C Brown,FArCCzdN,20,Nirmithi Kendram,8.510893117,76.98797897,KSRTC,No,Yes,Yes,207
+cejmGrmE,6C Brown,dczEESKP,21,Vettamukku,8.508805637,76.98731484,KSRTC,No,Yes,Yes,243
+cejmGrmE,6C Brown,jIQUMjhR,22,Elippode Market,8.508798222,76.99087883,KSRTC,No,Yes,Yes,391
+cejmGrmE,6C Brown,dypcNoJX,23,Elippode,8.509729372,76.99441106,KSRTC,No,Yes,Yes,402
+cejmGrmE,6C Brown,AyRmxykD,24,Valiyavila,8.506477452,76.99813227,KSRTC,Yes,Yes,Yes,546
+cejmGrmE,6C Brown,apjOgFTm,25,Arayalloor,8.50653665,76.99576651,KSRTC,No,Yes,Yes,260
+cejmGrmE,6C Brown,FsgnqUzd,26,Thirumala,8.501628246,76.99140603,KSRTC,No,Yes,Yes,726
+cejmGrmE,6C Brown,HqKmESex,27,Thirumala Pallimukku,8.500286625,76.9885308,KSRTC,No,Yes,Yes,349
+cejmGrmE,6C Brown,bArhrcYC,28,Vijayamohini Mill,8.497853122,76.98537695,KSRTC,No,Yes,Yes,439
+cejmGrmE,6C Brown,RLHLgkHj,29,Rotary,8.49695854,76.98061934,KSRTC,Yes,Yes,Yes,532
+cejmGrmE,6C Brown,VHkzEmmK,30,Chengalloor Hll,8.495562382,76.97805601,KSRTC,No,Yes,Yes,321
+cejmGrmE,6C Brown,eSjWZOmG,31,Poojappura,8.492157698,76.97412255,KSRTC,No,Yes,Yes,574
+cejmGrmE,6C Brown,LsvYxGRF,32,Pareeksha Bhavan,8.489890329,76.97292578,KSRTC,No,Yes,Yes,284
+cejmGrmE,6C Brown,DpTymrrl,33,Kunjalumoodu,8.484736145,76.97127016,KSRTC,No,Yes,Yes,601
+cejmGrmE,6C Brown,nxjtTRLQ,34,Karamana Junction,8.482316003,76.96646258,KSRTC,Yes,Yes,Yes,593
+cejmGrmE,6C Brown,hbWzLuub,35,Kailas Junction,8.480997568,76.96432109,KSRTC,No,Yes,Yes,277
+cejmGrmE,6C Brown,xebvcOdy,36,Karamana PRS,8.481104791,76.96152131,KSRTC,No,Yes,Yes,308
+cejmGrmE,6C Brown,gbvjMspE,37,Killipalam,8.481373765,76.95906649,KSRTC,No,Yes,Yes,271
+cejmGrmE,6C Brown,FBFMoIPI,38,Choorakattu Palayam,8.479470933,76.95258221,KSRTC,No,Yes,Yes,743
+cejmGrmE,6C Brown,hncvBsgH,39,Attakulangara,8.479584414,76.94947452,KSRTC,No,Yes,Yes,342
+cejmGrmE,6C Brown,GLEzoopN,40,East Fort Karimpanal Arcade,8.481469818,76.9473955,KSRTC,Yes,Yes,Yes,310
+DwdjjpCJ,7C Green,EtnfKXha,1,East Fort North Bus Stand,8.483820321,76.94777719,KSRTC,Yes,Yes,Yes,0
+DwdjjpCJ,7C Green,kgKXMCYO,2,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,No,Yes,Yes,241
+DwdjjpCJ,7C Green,bxtIcwJC,3,KSRTC Transport Bhavan,8.48055714,76.94555089,KSRTC,No,Yes,Yes,252
+DwdjjpCJ,7C Green,HXLbxsnp,4,Vazhappally,8.480509488,76.94218212,KSRTC,No,Yes,Yes,370
+DwdjjpCJ,7C Green,NqEZQseP,5,Padinjare Nada,8.483043676,76.94187548,KSRTC,No,Yes,Yes,283
+DwdjjpCJ,7C Green,DLhVdweV,6,Fort Hospital,8.484952,76.941816,KSRTC,Yes,Yes,Yes,212
+DwdjjpCJ,7C Green,PiwvhUIo,7,Sreekanteswaram Temple,8.487179317,76.94249685,KSRTC,No,Yes,Yes,258
+DwdjjpCJ,7C Green,iaMgcDiV,8,Uppidamoodu Bridge,8.490634778,76.94040588,KSRTC,No,Yes,Yes,447
+DwdjjpCJ,7C Green,KuClPVQt,9,Ambalathumukku,8.493453702,76.93653181,KSRTC,No,Yes,Yes,528
+DwdjjpCJ,7C Green,vbjKVnBk,10,Pettah Pallimukku Junction,8.496755,76.932508,KSRTC,Yes,Yes,Yes,574
+DwdjjpCJ,7C Green,dEZHvZll,11,Kannammoola Bridge,8.501130159,76.93143397,KSRTC,No,Yes,Yes,500
+DwdjjpCJ,7C Green,CGYHWQKH,12,Kannammoola,8.502895653,76.93179254,KSRTC,No,Yes,Yes,200
+DwdjjpCJ,7C Green,NMouiTxC,13,John Cox College,8.506523306,76.93109831,KSRTC,No,Yes,Yes,410
+DwdjjpCJ,7C Green,GPJiDJWi,14,Koyikkal Lane,8.508498707,76.92976179,KSRTC,No,Yes,Yes,264
+DwdjjpCJ,7C Green,PFGcFQji,15,Burma Road,8.510738013,76.92847522,KSRTC,No,Yes,Yes,286
+DwdjjpCJ,7C Green,bmjQYAdI,16,Kumarapuram,8.512940663,76.92748259,KSRTC,Yes,Yes,Yes,268
+DwdjjpCJ,7C Green,fwUlcotB,17,Government Medical College HSS,8.516811285,76.92767635,KSRTC,No,Yes,Yes,430
+DwdjjpCJ,7C Green,qYxkEpjr,18,Medical College Thiruvananthapuram,8.522192982,76.92974438,KSRTC,No,Yes,Yes,640
+DwdjjpCJ,7C Green,uMkGrAmM,19,Murinjapalam,8.515912,76.934433,KSRTC,Yes,Yes,Yes,868
+DwdjjpCJ,7C Green,COndsuDx,20,Pottakkuzhy,8.514023407,76.93804848,KSRTC,No,Yes,Yes,449
+DwdjjpCJ,7C Green,CvIBAeMV,21,Anadiyil Hospital,8.510021414,76.94245093,KSRTC,No,Yes,Yes,657
+DwdjjpCJ,7C Green,AOeNJEtJ,22,Law College Junction Kunnukuzhy,8.508804956,76.94515,KSRTC,No,Yes,Yes,326
+DwdjjpCJ,7C Green,OTpAVGpV,23,Vikas Bhavan Depot,8.508542,76.946929,KSRTC,No,Yes,Yes,197
+DwdjjpCJ,7C Green,XkYZQcQr,24,PMG,8.509106887,76.94931542,KSRTC,No,Yes,Yes,269
+DwdjjpCJ,7C Green,QJvMaiRe,25,LMS Mascot Hotel,8.508870219,76.95069678,KSRTC,No,Yes,Yes,154
+DwdjjpCJ,7C Green,ZWfXEzJg,26,LMS Corporation Office,8.507295232,76.95204428,KSRTC,No,Yes,Yes,229
+DwdjjpCJ,7C Green,cbRSKSLu,27,Palayam Fine Arts College,8.505101646,76.95150915,KSRTC,Yes,Yes,Yes,250
+DwdjjpCJ,7C Green,SNpenkdA,28,Palayam Saphalyam,8.502484833,76.95027772,KSRTC,No,Yes,Yes,320
+DwdjjpCJ,7C Green,gAUlVhoR,29,Statue SBI,8.497033285,76.94846153,KSRTC,No,Yes,Yes,638
+DwdjjpCJ,7C Green,iXphFurG,30,Ayurveda College,8.491217648,76.94718051,KSRTC,No,Yes,Yes,661
+DwdjjpCJ,7C Green,POCqSlvb,31,Overbridge Pulimoodu,8.489326522,76.94737933,KSRTC,No,Yes,Yes,211
+DwdjjpCJ,7C Green,eMZxNslv,32,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,331
+DwdjjpCJ,7C Green,OAEOpFGZ,33,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,No,Yes,Yes,167
+DwdjjpCJ,7C Green,HJhkvSOR,34,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,89
+DwdjjpCJ,7C Green,npYjXutS,35,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+DwdjjpCJ,7C Green,leeDbqil,36,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,Yes,Yes,Yes,692
+jeljGsPg,12A Olive,OAEOpFGZ,1,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,Yes,Yes,Yes,0
+jeljGsPg,12A Olive,HJhkvSOR,2,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,89
+jeljGsPg,12A Olive,npYjXutS,3,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+jeljGsPg,12A Olive,zvPuxLBv,4,Ayurveda College,8.491513879,76.94710121,KSRTC,No,Yes,Yes,432
+jeljGsPg,12A Olive,yjlvaCfU,5,Statue BSNL,8.49292232,76.94746757,KSRTC,Yes,Yes,Yes,161
+jeljGsPg,12A Olive,LeDvDLlR,6,Statue SBI,8.496653276,76.94829188,KSRTC,No,Yes,Yes,424
+jeljGsPg,12A Olive,DKkpzmGs,7,VJT Hall,8.50267911,76.94937318,KSRTC,No,Yes,Yes,680
+jeljGsPg,12A Olive,XOMRKFga,8,Kerala University,8.503468561,76.94886046,KSRTC,No,Yes,Yes,104
+jeljGsPg,12A Olive,zGcFNiZX,9,General Hospital Trivandrum,8.499261604,76.94314107,KSRTC,No,Yes,Yes,783
+jeljGsPg,12A Olive,WStdwMIf,10,Government Eye Hospital,8.499176301,76.94111487,KSRTC,No,Yes,Yes,223
+jeljGsPg,12A Olive,hxwMDkWk,11,Pattoor Junction,8.497646206,76.93746596,KSRTC,Yes,Yes,Yes,435
+jeljGsPg,12A Olive,XZMiiCPZ,12,Pettah Pallimukku Junction,8.496560145,76.93243873,KSRTC,No,Yes,Yes,565
+jeljGsPg,12A Olive,jUAridAR,13,Pettah KEPCO,8.49436902,76.9283177,KSRTC,No,Yes,Yes,514
+jeljGsPg,12A Olive,UMeJYmjJ,14,Chakai,8.492087714,76.92321345,KSRTC,No,Yes,Yes,615
+jeljGsPg,12A Olive,ePWGlEbG,15,Airport North Gate International,8.489700073,76.92021048,KSRTC,No,Yes,Yes,423
+jeljGsPg,12A Olive,UgkdzLeX,16,ITI Chakai,8.489811699,76.91727008,KSRTC,Yes,Yes,Yes,323
+jeljGsPg,12A Olive,BGCXRNjg,17,Brahmos Aero Space,8.491218397,76.91292801,KSRTC,No,Yes,Yes,502
+jeljGsPg,12A Olive,GNzTqAOj,18,Mathilakkam,8.493961284,76.91038387,KSRTC,No,Yes,Yes,413
+jeljGsPg,12A Olive,PNNTNmXb,19,All Saints College,8.495832363,76.90816286,KSRTC,No,Yes,Yes,320
+jeljGsPg,12A Olive,muoIOZGg,20,All Saints Church,8.49479438,76.90709707,KSRTC,No,Yes,Yes,164
+jeljGsPg,12A Olive,PyUTGOrS,21,Juma Masjid,8.49342253,76.90616848,KSRTC,No,Yes,Yes,183
+jeljGsPg,12A Olive,wEbnqAJE,22,Rajeev Nagar,8.491709521,76.90843035,KSRTC,No,Yes,Yes,313
+jeljGsPg,12A Olive,VHhWyaRX,23,GV Raja,8.488640026,76.91134802,KSRTC,No,Yes,Yes,468
+jeljGsPg,12A Olive,vHLiGOuy,24,Shangumukham Beach,8.480263974,76.91288235,KSRTC,Yes,Yes,Yes,946
+jeljGsPg,12A Olive,qGUGhMZO,25,Aircargo Shangumukham,8.477629154,76.91329143,KSRTC,No,Yes,Yes,296
+jeljGsPg,12A Olive,bnhxykrn,26,Valiya Thoppe,8.476045456,76.91708109,KSRTC,No,Yes,Yes,452
+jeljGsPg,12A Olive,otJjuBFx,27,Thiruvananthapuram Airport Junction,8.47513411,76.91921341,KSRTC,No,Yes,Yes,255
+jeljGsPg,12A Olive,Ivddefqh,28,Sulaiman Street,8.473556677,76.92497101,KSRTC,No,Yes,Yes,657
+jeljGsPg,12A Olive,DiIcSCsx,29,Valiyathura ITI,8.470298244,76.92815384,KSRTC,No,Yes,Yes,503
+jeljGsPg,12A Olive,pHfbuhXR,30,Thoppinakam,8.468680992,76.92776138,KSRTC,No,Yes,Yes,184
+jeljGsPg,12A Olive,oUMINJnS,31,Francis Xavierc Church,8.467862534,76.92919964,KSRTC,No,Yes,Yes,182
+jeljGsPg,12A Olive,ovIrKOPk,32,Bangladesh Colony,8.466912836,76.93039482,KSRTC,Yes,Yes,Yes,168
+jeljGsPg,12A Olive,pWaNdXAY,33,Ponnara Bridge,8.468051314,76.93289194,KSRTC,No,Yes,Yes,302
+jeljGsPg,12A Olive,CWcNbyhs,34,Vallakadavu,8.478325941,76.93155663,KSRTC,No,Yes,Yes,1151
+jeljGsPg,12A Olive,nzrkEtfF,35,Enchakkal,8.479904614,76.93491994,KSRTC,Yes,Yes,Yes,409
+jeljGsPg,12A Olive,UewxoccR,36,Kothalam Junction,8.478854414,76.9396862,KSRTC,No,Yes,Yes,537
+jeljGsPg,12A Olive,wmQWeDFM,37,Azhikkotta Junction,8.478981463,76.94225267,KSRTC,No,Yes,Yes,282
+jeljGsPg,12A Olive,XiBSOOYW,38,Attakulangara,8.479092223,76.94687825,KSRTC,No,Yes,Yes,508
+jeljGsPg,12A Olive,leeDbqil,39,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,No,Yes,Yes,310
+jeljGsPg,12A Olive,TotmgOIU,40,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,219
+jeljGsPg,12A Olive,eMZxNslv,41,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,538
+jeljGsPg,12A Olive,vcHPwTmX,42,Thampanoor Main Bus Stand,8.487671098,76.95195397,KSRTC,Yes,Yes,Yes,210
+HdGWNxyZ,9A Orange,leeDbqil,1,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,Yes,Yes,Yes,0
+HdGWNxyZ,9A Orange,TotmgOIU,2,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,219
+HdGWNxyZ,9A Orange,pMpOGtHk,3,Thampanoor KTDC Chaithram,8.487971589,76.94988813,KSRTC,No,Yes,Yes,529
+HdGWNxyZ,9A Orange,OAEOpFGZ,4,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,No,Yes,Yes,186
+HdGWNxyZ,9A Orange,HJhkvSOR,5,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,89
+HdGWNxyZ,9A Orange,npYjXutS,6,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+HdGWNxyZ,9A Orange,zvPuxLBv,7,Ayurveda College,8.491513879,76.94710121,KSRTC,No,Yes,Yes,432
+HdGWNxyZ,9A Orange,yjlvaCfU,8,Statue BSNL,8.49292232,76.94746757,KSRTC,Yes,Yes,Yes,161
+HdGWNxyZ,9A Orange,LeDvDLlR,9,Statue SBI,8.496653276,76.94829188,KSRTC,No,Yes,Yes,424
+HdGWNxyZ,9A Orange,DKkpzmGs,10,VJT Hall,8.50267911,76.94937318,KSRTC,No,Yes,Yes,680
+HdGWNxyZ,9A Orange,XOMRKFga,11,Kerala University,8.503468561,76.94886046,KSRTC,No,Yes,Yes,104
+HdGWNxyZ,9A Orange,zGcFNiZX,12,General Hospital Trivandrum,8.499261604,76.94314107,KSRTC,No,Yes,Yes,783
+HdGWNxyZ,9A Orange,WStdwMIf,13,Government Eye Hospital,8.499176301,76.94111487,KSRTC,No,Yes,Yes,223
+HdGWNxyZ,9A Orange,hxwMDkWk,14,Pattoor Junction,8.497646206,76.93746596,KSRTC,Yes,Yes,Yes,435
+HdGWNxyZ,9A Orange,XZMiiCPZ,15,Pettah Pallimukku Junction,8.496560145,76.93243873,KSRTC,No,Yes,Yes,565
+HdGWNxyZ,9A Orange,jUAridAR,16,Pettah KEPCO,8.49436902,76.9283177,KSRTC,No,Yes,Yes,514
+HdGWNxyZ,9A Orange,UMeJYmjJ,17,Chakai,8.492087714,76.92321345,KSRTC,Yes,Yes,Yes,615
+HdGWNxyZ,9A Orange,UgkdzLeX,18,ITI Chakai,8.489811699,76.91727008,KSRTC,No,Yes,Yes,700
+HdGWNxyZ,9A Orange,BGCXRNjg,19,Brahmos Aero Space,8.491218397,76.91292801,KSRTC,No,Yes,Yes,502
+HdGWNxyZ,9A Orange,GNzTqAOj,20,Mathilakkam,8.493961284,76.91038387,KSRTC,No,Yes,Yes,413
+HdGWNxyZ,9A Orange,PNNTNmXb,21,All Saints College,8.495832363,76.90816286,KSRTC,No,Yes,Yes,320
+HdGWNxyZ,9A Orange,muoIOZGg,22,All Saints Church,8.49479438,76.90709707,KSRTC,No,Yes,Yes,164
+HdGWNxyZ,9A Orange,PyUTGOrS,23,Juma Masjid,8.49342253,76.90616848,KSRTC,No,Yes,Yes,183
+HdGWNxyZ,9A Orange,wEbnqAJE,24,Rajeev Nagar,8.491709521,76.90843035,KSRTC,No,Yes,Yes,313
+HdGWNxyZ,9A Orange,VHhWyaRX,25,GV Raja,8.488640026,76.91134802,KSRTC,No,Yes,Yes,468
+HdGWNxyZ,9A Orange,vHLiGOuy,26,Shangumukham Beach,8.480263974,76.91288235,KSRTC,Yes,Yes,Yes,946
+HdGWNxyZ,9A Orange,qGUGhMZO,27,Aircargo Shangumukham,8.477629154,76.91329143,KSRTC,No,Yes,Yes,296
+HdGWNxyZ,9A Orange,bnhxykrn,28,Valiya Thoppe,8.476045456,76.91708109,KSRTC,No,Yes,Yes,452
+HdGWNxyZ,9A Orange,svJHtoJO,29,Thiruvananthapuram Airport Junction,8.474685315,76.91988286,KSRTC,No,Yes,Yes,343
+HdGWNxyZ,9A Orange,OPUaRqXq,30,Kochuthoppe,8.47214629,76.92227755,KSRTC,No,Yes,Yes,386
+HdGWNxyZ,9A Orange,dOrPSxDx,31,FCI Warehouse Valiyathura,8.47090125,76.92311113,KSRTC,No,Yes,Yes,166
+HdGWNxyZ,9A Orange,vjCPpZkY,32,Kuzhivilakam Junction,8.46592296,76.92455945,KSRTC,No,Yes,Yes,576
+HdGWNxyZ,9A Orange,nuERCZUx,33,Valiyathura Shangumugam,8.464468482,76.9256773,KSRTC,Yes,Yes,Yes,203
+HdGWNxyZ,9A Orange,iTYNNQXv,34,OLG Nagar,8.468152142,76.92753434,KSRTC,No,Yes,Yes,457
+HdGWNxyZ,9A Orange,pHfbuhXR,35,Thoppinakam,8.468680992,76.92776138,KSRTC,No,Yes,Yes,63
+HdGWNxyZ,9A Orange,oUMINJnS,36,Francis Xavierc Church,8.467862534,76.92919964,KSRTC,No,Yes,Yes,182
+HdGWNxyZ,9A Orange,ovIrKOPk,37,Bangladesh Colony,8.466912836,76.93039482,KSRTC,No,Yes,Yes,168
+HdGWNxyZ,9A Orange,sZZBiRHl,38,Priyadarshini Nagar,8.467429751,76.93163744,KSRTC,No,Yes,Yes,148
+HdGWNxyZ,9A Orange,pWaNdXAY,39,Ponnara Bridge,8.468051314,76.93289194,KSRTC,No,Yes,Yes,154
+HdGWNxyZ,9A Orange,AtWVJpuJ,40,Ponnara School,8.468759475,76.93420484,KSRTC,No,Yes,Yes,164
+HdGWNxyZ,9A Orange,zHeBMtiA,41,Kallumoodu,8.4696326,76.93589608,KSRTC,Yes,Yes,Yes,209
+HdGWNxyZ,9A Orange,XkANyyfK,42,Thavaload,8.470404465,76.93831483,KSRTC,No,Yes,Yes,279
+HdGWNxyZ,9A Orange,VGsiqcBH,43,Parambil Nagar,8.47168603,76.94073901,KSRTC,No,Yes,Yes,302
+HdGWNxyZ,9A Orange,ZLBwvMVl,44,Mukkolakkal Temple,8.473488792,76.94235269,KSRTC,No,Yes,Yes,267
+HdGWNxyZ,9A Orange,aJAmbXFF,45,Poyani Junction,8.474702079,76.94413612,KSRTC,No,Yes,Yes,238
+HdGWNxyZ,9A Orange,RYtTtAyz,46,Manacaud,8.47529684,76.94748224,KSRTC,No,Yes,Yes,373
+HdGWNxyZ,9A Orange,GLEzoopN,47,East Fort Karimpanal Arcade,8.481469818,76.9473955,KSRTC,Yes,Yes,Yes,686
+htTGBNHa,10C Indigo,OAEOpFGZ,1,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,Yes,Yes,Yes,0
+htTGBNHa,10C Indigo,HJhkvSOR,2,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,89
+htTGBNHa,10C Indigo,npYjXutS,3,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+htTGBNHa,10C Indigo,EtnfKXha,4,East Fort North Bus Stand,8.483820321,76.94777719,KSRTC,No,Yes,Yes,468
+htTGBNHa,10C Indigo,kgKXMCYO,5,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,No,Yes,Yes,241
+htTGBNHa,10C Indigo,SJeFRSJj,6,Manacaud,8.475515917,76.9483171,KSRTC,No,Yes,Yes,688
+htTGBNHa,10C Indigo,YHfuhdTc,7,Kalippankulam,8.47208574,76.94957485,KSRTC,No,Yes,Yes,405
+htTGBNHa,10C Indigo,pNqgyQhW,8,Manacaud Valiya Palli,8.469571812,76.95089799,KSRTC,Yes,Yes,Yes,315
+htTGBNHa,10C Indigo,qZJbNHwz,9,Konchiravila UP School,8.463723395,76.95462414,KSRTC,No,Yes,Yes,768
+htTGBNHa,10C Indigo,tjBwYHvd,10,Konchiravila Temple,8.462399337,76.95634971,KSRTC,No,Yes,Yes,240
+htTGBNHa,10C Indigo,fDriKHgz,11,Kalladi Mugham,8.456675128,76.95761341,KSRTC,No,Yes,Yes,651
+htTGBNHa,10C Indigo,LMjxAwGO,12,Milma Junction,8.44872023,76.95198424,KSRTC,Yes,Yes,Yes,1079
+htTGBNHa,10C Indigo,rmVpDUiF,13,Thiruvallam,8.441097678,76.95507519,KSRTC,No,Yes,Yes,913
+htTGBNHa,10C Indigo,rgAOHCvw,14,Milma Junction,8.448199668,76.9518238,KSRTC,No,Yes,Yes,866
+htTGBNHa,10C Indigo,TQTQKvTM,15,Ambalathara,8.45271191,76.95090238,KSRTC,Yes,Yes,Yes,511
+htTGBNHa,10C Indigo,vkDnhzdd,16,Paravankunnu,8.45613289,76.94991825,KSRTC,No,Yes,Yes,395
+htTGBNHa,10C Indigo,MsFIEbeI,17,National Engineering College,8.458379192,76.95062187,KSRTC,No,Yes,Yes,261
+htTGBNHa,10C Indigo,WoKWlsoE,18,Kallettumukku,8.461974062,76.95014558,KSRTC,No,Yes,Yes,403
+htTGBNHa,10C Indigo,MGwpOxFw,19,Kamaleswaram,8.467698417,76.94818364,KSRTC,Yes,Yes,Yes,672
+htTGBNHa,10C Indigo,RYtTtAyz,20,Manacaud,8.47529684,76.94748224,KSRTC,No,Yes,Yes,848
+htTGBNHa,10C Indigo,leeDbqil,21,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,No,Yes,Yes,727
+htTGBNHa,10C Indigo,TotmgOIU,22,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,219
+htTGBNHa,10C Indigo,pMpOGtHk,23,Thampanoor KTDC Chaithram,8.487971589,76.94988813,KSRTC,No,Yes,Yes,529
+htTGBNHa,10C Indigo,vcHPwTmX,24,Thampanoor Main Bus Stand,8.487671098,76.95195397,KSRTC,Yes,Yes,Yes,229
+BDYZZNwd,4A Yellow,QxZamfbS,1,Peroorkada Depot,8.534707787,76.96753619,KSRTC,Yes,Yes,Yes,0
+BDYZZNwd,4A Yellow,uHULNbDo,2,Peroorkada Junction,8.537083289,76.96576194,KSRTC,No,Yes,Yes,328
+BDYZZNwd,4A Yellow,sWAbgwHe,3,Peroorkada Thankamma Stadium,8.534229257,76.96378491,KSRTC,No,Yes,Yes,384
+BDYZZNwd,4A Yellow,PLLslWUX,4,Ambalamukku,8.531641764,76.96114235,KSRTC,Yes,Yes,Yes,408
+BDYZZNwd,4A Yellow,DOSbwAWy,5,Santhwana Junction,8.531853522,76.95983246,KSRTC,No,Yes,Yes,145
+BDYZZNwd,4A Yellow,JLUXmALc,6,Jala Vijnana Bhavan,8.531451872,76.95829316,KSRTC,No,Yes,Yes,175
+BDYZZNwd,4A Yellow,OdQGvbKp,7,Vayalikada,8.532991695,76.95340235,KSRTC,No,Yes,Yes,564
+BDYZZNwd,4A Yellow,frkDicav,8,Muttada,8.534612819,76.94922175,KSRTC,No,Yes,Yes,493
+BDYZZNwd,4A Yellow,wsASFYtZ,9,Muttada St Joseph School,8.535418708,76.94473692,KSRTC,No,Yes,Yes,501
+BDYZZNwd,4A Yellow,sMNWYOVm,10,Paruthippara,8.534104965,76.94220213,KSRTC,No,Yes,Yes,314
+BDYZZNwd,4A Yellow,WiOQDgYn,11,MG College,8.532070713,76.9402388,KSRTC,No,Yes,Yes,312
+BDYZZNwd,4A Yellow,jVcZqKKG,12,Kesavadasapuram,8.529789105,76.9376911,KSRTC,Yes,Yes,Yes,377
+BDYZZNwd,4A Yellow,Flhgtgnn,13,FCI,8.529145848,76.93509874,KSRTC,No,Yes,Yes,293
+BDYZZNwd,4A Yellow,StwQJOrH,14,Ulloor,8.529059653,76.92863502,KSRTC,No,Yes,Yes,710
+BDYZZNwd,4A Yellow,qYxkEpjr,15,Medical College Thiruvananthapuram,8.522192982,76.92974438,KSRTC,Yes,Yes,Yes,773
+BDYZZNwd,4A Yellow,uMkGrAmM,16,Murinjapalam,8.515912,76.934433,KSRTC,No,Yes,Yes,868
+BDYZZNwd,4A Yellow,EWIfndNv,17,Vydhudhi Bhavan,8.516020642,76.93801897,KSRTC,No,Yes,Yes,394
+BDYZZNwd,4A Yellow,YDxTNBbe,18,Pattom SUT Office,8.518164462,76.94286127,KSRTC,Yes,Yes,Yes,583
+BDYZZNwd,4A Yellow,TXkEHPZf,19,Plamoodu,8.515123294,76.94530943,KSRTC,No,Yes,Yes,432
+BDYZZNwd,4A Yellow,XkYZQcQr,20,PMG,8.509106887,76.94931542,KSRTC,Yes,Yes,Yes,801
+BDYZZNwd,4A Yellow,QJvMaiRe,21,LMS Mascot Hotel,8.508870219,76.95069678,KSRTC,No,Yes,Yes,154
+BDYZZNwd,4A Yellow,ZWfXEzJg,22,LMS Corporation Office,8.507295232,76.95204428,KSRTC,No,Yes,Yes,229
+BDYZZNwd,4A Yellow,cbRSKSLu,23,Palayam Fine Arts College,8.505101646,76.95150915,KSRTC,No,Yes,Yes,250
+BDYZZNwd,4A Yellow,DKkpzmGs,24,VJT Hall,8.50267911,76.94937318,KSRTC,No,Yes,Yes,357
+BDYZZNwd,4A Yellow,MCygkfJZ,25,Kerala University,8.503695358,76.94854828,KSRTC,No,Yes,Yes,144
+BDYZZNwd,4A Yellow,LPwlvAzx,26,Palayam Chandrasekharan Nair Stadium,8.504429764,76.95113128,KSRTC,No,Yes,Yes,295
+BDYZZNwd,4A Yellow,wHYROrNo,27,Niyamasabha,8.506740325,76.95052704,KSRTC,No,Yes,Yes,265
+BDYZZNwd,4A Yellow,cQcRFiez,28,LMS Mascot Hotel,8.508197654,76.95009946,KSRTC,No,Yes,Yes,168
+BDYZZNwd,4A Yellow,jPHzwdAU,29,Museum,8.50916702,76.95319133,KSRTC,Yes,Yes,Yes,356
+BDYZZNwd,4A Yellow,hZQCzAtN,30,Nanthancode Rajeev Lane,8.513612859,76.95338168,KSRTC,No,Yes,Yes,494
+BDYZZNwd,4A Yellow,icIXAafe,31,Nanthancode,8.515544461,76.95411869,KSRTC,No,Yes,Yes,229
+BDYZZNwd,4A Yellow,RzIcHdVQ,32,Devaswom Board,8.517280821,76.95675583,KSRTC,No,Yes,Yes,348
+BDYZZNwd,4A Yellow,pdeePVkH,33,TTC Kowdiar,8.519551222,76.96062466,KSRTC,No,Yes,Yes,494
+BDYZZNwd,4A Yellow,AaXGlJaG,34,Kowdiar,8.522644556,76.96049433,KSRTC,Yes,Yes,Yes,344
+BDYZZNwd,4A Yellow,JmYvAogb,35,Narmadha Toll Junction,8.526901208,76.96037751,KSRTC,No,Yes,Yes,473
+BDYZZNwd,4A Yellow,MGOpSmhV,36,Ambalamukku,8.531166006,76.96131953,KSRTC,No,Yes,Yes,485
+BDYZZNwd,4A Yellow,TfJZGmHS,37,Peroorkada Thankamma Stadium,8.534301538,76.96370545,KSRTC,No,Yes,Yes,436
+BDYZZNwd,4A Yellow,RQwyoCIz,38,Peroorkada Junction,8.537199999,76.96574785,KSRTC,No,Yes,Yes,392
+BDYZZNwd,4A Yellow,AovZQjSm,39,Peroorkada Depot,8.534864829,76.96761011,KSRTC,Yes,Yes,Yes,330
+MccjxpXC,11C Gold,OAEOpFGZ,1,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,Yes,Yes,Yes,0
+MccjxpXC,11C Gold,HJhkvSOR,2,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,89
+MccjxpXC,11C Gold,npYjXutS,3,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+MccjxpXC,11C Gold,EtnfKXha,4,East Fort North Bus Stand,8.483820321,76.94777719,KSRTC,No,Yes,Yes,468
+MccjxpXC,11C Gold,kgKXMCYO,5,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,No,Yes,Yes,241
+MccjxpXC,11C Gold,bWHnWdjS,6,Manacaud,8.475308065,76.94759471,KSRTC,No,Yes,Yes,706
+MccjxpXC,11C Gold,DiRSpHjs,7,Kamaleswaram,8.46763,76.948275,KSRTC,Yes,Yes,Yes,857
+MccjxpXC,11C Gold,hDJtreku,8,Kallettumukku,8.461926198,76.95019449,KSRTC,No,Yes,Yes,668
+MccjxpXC,11C Gold,SALGnZmB,9,National Engineering College,8.458256656,76.95068452,KSRTC,No,Yes,Yes,411
+MccjxpXC,11C Gold,isIMYOQh,10,Paravankunnu,8.455817631,76.9499254,KSRTC,No,Yes,Yes,283
+MccjxpXC,11C Gold,EQZhyRzP,11,Ambalathara,8.452748949,76.95095463,KSRTC,No,Yes,Yes,359
+MccjxpXC,11C Gold,oJQLHrdM,12,Kumarichantha,8.448823424,76.9478307,KSRTC,Yes,Yes,Yes,555
+MccjxpXC,11C Gold,ZjePRPld,13,Poothura Police Station,8.447495858,76.94658732,KSRTC,No,Yes,Yes,201
+MccjxpXC,11C Gold,SiDwqywi,14,Poonthura Kseb,8.444969736,76.94465994,KSRTC,No,Yes,Yes,351
+MccjxpXC,11C Gold,jnTXUaYs,15,Poonthura Junction,8.443708,76.944058,KSRTC,No,Yes,Yes,155
+MccjxpXC,11C Gold,kCdMRwRu,16,Jawahar Junction,8.446995,76.940962,KSRTC,No,Yes,Yes,499
+MccjxpXC,11C Gold,ASONhUuG,17,Noorul Islam College Junction,8.450726,76.938416,KSRTC,No,Yes,Yes,500
+MccjxpXC,11C Gold,nGtMmnAU,18,Beema Pally,8.455836,76.933805,KSRTC,Yes,Yes,Yes,761
+MccjxpXC,11C Gold,ziRGeFqY,19,Cheriya Thura,8.457363592,76.93243808,KSRTC,No,Yes,Yes,226
+MccjxpXC,11C Gold,twKgetiW,20,Rose Mini School,8.459435882,76.93079655,KSRTC,No,Yes,Yes,292
+MccjxpXC,11C Gold,ObKMdCJC,21,Velankanni Junction,8.462052,76.92821,KSRTC,No,Yes,Yes,406
+MccjxpXC,11C Gold,MeBPIGWf,22,Valiyathura,8.464670983,76.92627774,KSRTC,No,Yes,Yes,360
+MccjxpXC,11C Gold,ovIrKOPk,23,Bangladesh Colony,8.466912836,76.93039482,KSRTC,No,Yes,Yes,516
+MccjxpXC,11C Gold,pWaNdXAY,24,Ponnara Bridge,8.468051314,76.93289194,KSRTC,No,Yes,Yes,302
+MccjxpXC,11C Gold,AtWVJpuJ,25,Ponnara School,8.468759475,76.93420484,KSRTC,No,Yes,Yes,164
+MccjxpXC,11C Gold,zHeBMtiA,26,Kallumoodu,8.4696326,76.93589608,KSRTC,Yes,Yes,Yes,209
+MccjxpXC,11C Gold,Dfbirnyh,27,Balavan Nagar,8.471176444,76.9426439,KSRTC,No,Yes,Yes,761
+MccjxpXC,11C Gold,RYtTtAyz,28,Manacaud,8.47529684,76.94748224,KSRTC,No,Yes,Yes,702
+MccjxpXC,11C Gold,leeDbqil,29,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,No,Yes,Yes,727
+MccjxpXC,11C Gold,TotmgOIU,30,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,219
+MccjxpXC,11C Gold,eMZxNslv,31,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,538
+MccjxpXC,11C Gold,vcHPwTmX,32,Thampanoor Main Bus Stand,8.487671098,76.95195397,KSRTC,Yes,Yes,Yes,210
+pXrJZCnm,3C Magenta,QxZamfbS,1,Peroorkada Depot,8.534707787,76.96753619,KSRTC,Yes,Yes,Yes,0
+pXrJZCnm,3C Magenta,uHULNbDo,2,Peroorkada Junction,8.537083289,76.96576194,KSRTC,No,Yes,Yes,328
+pXrJZCnm,3C Magenta,sWAbgwHe,3,Peroorkada Thankamma Stadium,8.534229257,76.96378491,KSRTC,No,Yes,Yes,384
+pXrJZCnm,3C Magenta,WRfjcdeq,4,Ambalamukku,8.530975679,76.96138736,KSRTC,No,Yes,Yes,447
+pXrJZCnm,3C Magenta,EgakaCII,5,Narmadha Toll Junction,8.527014273,76.9604734,KSRTC,No,Yes,Yes,451
+pXrJZCnm,3C Magenta,kPxMSDwg,6,Kowdiar,8.521697316,76.96083335,KSRTC,Yes,Yes,Yes,592
+pXrJZCnm,3C Magenta,RBpRvuYQ,7,TTC Kowdiar,8.51974733,76.96079488,KSRTC,No,Yes,Yes,216
+pXrJZCnm,3C Magenta,rgdsABic,8,Raj Bhavan Or Jawahar Nagar,8.517146171,76.96067821,KSRTC,No,Yes,Yes,289
+pXrJZCnm,3C Magenta,ooVnghkL,9,Vellayambalam,8.510870949,76.96151542,KSRTC,No,Yes,Yes,703
+pXrJZCnm,3C Magenta,fmifgIoI,10,Kanakakunnu,8.509314463,76.95758858,KSRTC,No,Yes,Yes,465
+pXrJZCnm,3C Magenta,LwKYHhkr,11,Museum Public Office Complex,8.508083,76.95532,KSRTC,No,Yes,Yes,284
+pXrJZCnm,3C Magenta,ZWfXEzJg,12,LMS Corporation Office,8.507295232,76.95204428,KSRTC,Yes,Yes,Yes,370
+pXrJZCnm,3C Magenta,cbRSKSLu,13,Palayam Fine Arts College,8.505101646,76.95150915,KSRTC,No,Yes,Yes,250
+pXrJZCnm,3C Magenta,SNpenkdA,14,Palayam Saphalyam,8.502484833,76.95027772,KSRTC,No,Yes,Yes,320
+pXrJZCnm,3C Magenta,gAUlVhoR,15,Statue SBI,8.497033285,76.94846153,KSRTC,No,Yes,Yes,638
+pXrJZCnm,3C Magenta,iXphFurG,16,Ayurveda College,8.491217648,76.94718051,KSRTC,No,Yes,Yes,661
+pXrJZCnm,3C Magenta,POCqSlvb,17,Overbridge Pulimoodu,8.489326522,76.94737933,KSRTC,No,Yes,Yes,211
+pXrJZCnm,3C Magenta,OAEOpFGZ,18,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,Yes,Yes,Yes,491
+pXrJZCnm,3C Magenta,jqLODqJN,19,Aristo,8.489290098,76.95382465,KSRTC,No,Yes,Yes,295
+pXrJZCnm,3C Magenta,XwqXdvMT,20,Model School Thycaud,8.494216858,76.95390872,KSRTC,No,Yes,Yes,547
+pXrJZCnm,3C Magenta,fbpbHmqK,21,Panavila,8.497750674,76.95490661,KSRTC,No,Yes,Yes,407
+pXrJZCnm,3C Magenta,RTZHqmBU,22,Bakery Junction,8.500589766,76.95398941,KSRTC,No,Yes,Yes,331
+pXrJZCnm,3C Magenta,LPwlvAzx,23,Palayam Chandrasekharan Nair Stadium,8.504429764,76.95113128,KSRTC,No,Yes,Yes,530
+pXrJZCnm,3C Magenta,wHYROrNo,24,Niyamasabha,8.506740325,76.95052704,KSRTC,No,Yes,Yes,265
+pXrJZCnm,3C Magenta,gxmLnetZ,25,PMG,8.509026312,76.94925206,KSRTC,Yes,Yes,Yes,290
+pXrJZCnm,3C Magenta,NMhmDHRK,26,Plamoodu,8.514328827,76.94573858,KSRTC,No,Yes,Yes,704
+pXrJZCnm,3C Magenta,LiWwdvsI,27,Pattom SUT Office,8.518085839,76.94276329,KSRTC,Yes,Yes,Yes,530
+pXrJZCnm,3C Magenta,AdAKHmCz,28,Pattom LIC,8.523062305,76.94049455,KSRTC,No,Yes,Yes,606
+pXrJZCnm,3C Magenta,XqmCVHlz,29,Pattom St Marys HSS,8.526129626,76.93899788,KSRTC,No,Yes,Yes,378
+pXrJZCnm,3C Magenta,QrQKLstd,30,Kesavadasapuram,8.529393805,76.93842683,KSRTC,No,Yes,Yes,368
+pXrJZCnm,3C Magenta,rknGxesq,31,Pattom St Marys HSS,8.526291806,76.93911992,KSRTC,No,Yes,Yes,353
+pXrJZCnm,3C Magenta,TGJgxBVN,32,Pattom LIC,8.523012569,76.9407061,KSRTC,No,Yes,Yes,404
+pXrJZCnm,3C Magenta,xnOTyeXV,33,Pattom SUT Office,8.518942892,76.94265071,KSRTC,Yes,Yes,Yes,500
+pXrJZCnm,3C Magenta,MMXtqqul,34,Marappalam,8.520024732,76.94527745,KSRTC,No,Yes,Yes,312
+pXrJZCnm,3C Magenta,mOQzFZzl,35,Kuravankonam St Thomas Church,8.522317741,76.95022542,KSRTC,No,Yes,Yes,600
+pXrJZCnm,3C Magenta,kiCnAGys,36,SPTPM Government Up School,8.523457815,76.95523978,KSRTC,No,Yes,Yes,565
+pXrJZCnm,3C Magenta,AaXGlJaG,37,Kowdiar,8.522644556,76.96049433,KSRTC,Yes,Yes,Yes,584
+pXrJZCnm,3C Magenta,JmYvAogb,38,Narmadha Toll Junction,8.526901208,76.96037751,KSRTC,No,Yes,Yes,473
+pXrJZCnm,3C Magenta,eAbVJywN,39,Ambalamukku,8.532537347,76.96222934,KSRTC,No,Yes,Yes,658
+pXrJZCnm,3C Magenta,RQwyoCIz,40,Peroorkada Junction,8.537199999,76.96574785,KSRTC,No,Yes,Yes,646
+pXrJZCnm,3C Magenta,AovZQjSm,41,Peroorkada Depot,8.534864829,76.96761011,KSRTC,Yes,Yes,Yes,330
+YWoCquBJ,9C Orange,kgKXMCYO,1,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,Yes,Yes,Yes,0
+YWoCquBJ,9C Orange,bWHnWdjS,2,Manacaud,8.475308065,76.94759471,KSRTC,No,Yes,Yes,706
+YWoCquBJ,9C Orange,UmzXrxUf,3,Poyani Junction,8.474688057,76.94418857,KSRTC,No,Yes,Yes,380
+YWoCquBJ,9C Orange,Scxyofsi,4,Mukkolakkal Temple,8.473409326,76.94230661,KSRTC,No,Yes,Yes,251
+YWoCquBJ,9C Orange,AOcCSyql,5,Parambil Nagar,8.471757301,76.94087656,KSRTC,No,Yes,Yes,241
+YWoCquBJ,9C Orange,euNeetwY,6,Thavaload,8.470374913,76.93835995,KSRTC,No,Yes,Yes,316
+YWoCquBJ,9C Orange,VLHmbGyx,7,Kallumoodu,8.469641082,76.93606864,KSRTC,Yes,Yes,Yes,264
+YWoCquBJ,9C Orange,NBJVHglM,8,Ponnara School,8.468590834,76.93406458,KSRTC,No,Yes,Yes,249
+YWoCquBJ,9C Orange,VICoxcHw,9,Ponnara Bridge,8.468007901,76.93291893,KSRTC,No,Yes,Yes,141
+YWoCquBJ,9C Orange,KPSdEBmD,10,Priyadarshini Nagar,8.467417229,76.93168611,KSRTC,No,Yes,Yes,150
+YWoCquBJ,9C Orange,qflTiOlz,11,Bangladesh Colony,8.46675398,76.93026795,KSRTC,No,Yes,Yes,172
+YWoCquBJ,9C Orange,txkFPXQG,12,Francis Xavierc Church,8.467768539,76.92920007,KSRTC,No,Yes,Yes,162
+YWoCquBJ,9C Orange,TwPNauMc,13,Thoppinakam,8.468665969,76.92775085,KSRTC,No,Yes,Yes,188
+YWoCquBJ,9C Orange,bVNjZDFT,14,OLG Nagar,8.468339027,76.92759921,KSRTC,No,Yes,Yes,39
+YWoCquBJ,9C Orange,XSDjdgbl,15,Valiyathura Shangumugam,8.464656448,76.92608414,KSRTC,Yes,Yes,Yes,442
+YWoCquBJ,9C Orange,vJTBAwIG,16,Kuzhivilakam Junction,8.467849023,76.92337177,KSRTC,No,Yes,Yes,463
+YWoCquBJ,9C Orange,OxcolNZq,17,FCI Warehouse Valiyathura,8.470893716,76.92305394,KSRTC,No,Yes,Yes,340
+YWoCquBJ,9C Orange,NCocqGNJ,18,Kochuthoppe,8.472253022,76.9221186,KSRTC,No,Yes,Yes,182
+YWoCquBJ,9C Orange,krwAxjld,19,Thiruvananthapuram Airport Junction,8.474696294,76.91976516,KSRTC,No,Yes,Yes,375
+YWoCquBJ,9C Orange,gXPDavGK,20,Valiya Thoppe,8.475914289,76.9172405,KSRTC,No,Yes,Yes,308
+YWoCquBJ,9C Orange,WvqEVfVs,21,Aircargo Shangumukham,8.47758198,76.91329795,KSRTC,No,Yes,Yes,471
+YWoCquBJ,9C Orange,tFxuvaSF,22,Shangumukham Beach,8.480821822,76.91271835,KSRTC,Yes,Yes,Yes,365
+YWoCquBJ,9C Orange,JjCutTwO,23,GV Raja,8.488536235,76.91127943,KSRTC,No,Yes,Yes,872
+YWoCquBJ,9C Orange,kDuzZnLO,24,Rajeev Nagar,8.491639269,76.90834139,KSRTC,No,Yes,Yes,472
+YWoCquBJ,9C Orange,zspyjvRq,25,Juma Masjid,8.493720352,76.90597069,KSRTC,No,Yes,Yes,348
+YWoCquBJ,9C Orange,qoMfPOkM,26,All Saints College,8.495991547,76.90816999,KSRTC,No,Yes,Yes,349
+YWoCquBJ,9C Orange,tBfirJok,27,Mathilakkam,8.493918718,76.91063578,KSRTC,No,Yes,Yes,355
+YWoCquBJ,9C Orange,lHrUwTSg,28,Brahmos Aero Space,8.491746812,76.91256983,KSRTC,No,Yes,Yes,321
+YWoCquBJ,9C Orange,aeXTxwab,29,ITI Chakai,8.490571117,76.91657674,KSRTC,No,Yes,Yes,459
+YWoCquBJ,9C Orange,hiEwRdbC,30,KSEB Chakkai,8.488647481,76.9189953,KSRTC,Yes,Yes,Yes,341
+YWoCquBJ,9C Orange,EDJqjtIK,31,Chakai,8.492275136,76.92333942,KSRTC,No,Yes,Yes,625
+YWoCquBJ,9C Orange,EbuQvXIb,32,Pettah KEPCO,8.494493716,76.92833385,KSRTC,No,Yes,Yes,602
+YWoCquBJ,9C Orange,vbjKVnBk,33,Pettah Pallimukku Junction,8.496755,76.932508,KSRTC,No,Yes,Yes,523
+YWoCquBJ,9C Orange,qDoLmmyu,34,Pattoor Junction,8.49772524,76.93743329,KSRTC,Yes,Yes,Yes,552
+YWoCquBJ,9C Orange,pIEFWcHj,35,Government Eye Hospital,8.499309024,76.94108404,KSRTC,No,Yes,Yes,438
+YWoCquBJ,9C Orange,MCygkfJZ,36,Kerala University,8.503695358,76.94854828,KSRTC,Yes,Yes,Yes,954
+YWoCquBJ,9C Orange,SNpenkdA,37,Palayam Saphalyam,8.502484833,76.95027772,KSRTC,No,Yes,Yes,233
+YWoCquBJ,9C Orange,gAUlVhoR,38,Statue SBI,8.497033285,76.94846153,KSRTC,No,Yes,Yes,638
+YWoCquBJ,9C Orange,POCqSlvb,39,Overbridge Pulimoodu,8.489326522,76.94737933,KSRTC,No,Yes,Yes,865
+YWoCquBJ,9C Orange,eMZxNslv,40,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,331
+YWoCquBJ,9C Orange,OAEOpFGZ,41,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,No,Yes,Yes,167
+YWoCquBJ,9C Orange,HJhkvSOR,42,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,89
+YWoCquBJ,9C Orange,AfjcCcCM,43,Thampanoor KTDC Chaithram,8.487778082,76.95017172,KSRTC,No,Yes,Yes,236
+YWoCquBJ,9C Orange,leeDbqil,44,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,Yes,Yes,Yes,727
+bhIfxjkO,6A Brown,kgKXMCYO,1,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,Yes,Yes,Yes,0
+bhIfxjkO,6A Brown,krCxENPV,2,Attakulangara,8.479672808,76.94927946,KSRTC,No,Yes,Yes,291
+bhIfxjkO,6A Brown,PIDIypRY,3,Choorakattu Palayam,8.479582144,76.9523914,KSRTC,No,Yes,Yes,342
+bhIfxjkO,6A Brown,boadGnaT,4,Killipalam,8.481579363,76.95879794,KSRTC,No,Yes,Yes,738
+bhIfxjkO,6A Brown,XMLxIHgk,5,Karamana PRS,8.481217895,76.96154402,KSRTC,No,Yes,Yes,304
+bhIfxjkO,6A Brown,odtqmbxE,6,Kailas Junction,8.481117732,76.96421766,KSRTC,No,Yes,Yes,294
+bhIfxjkO,6A Brown,pzOiMioz,7,Karamana Junction,8.481807998,76.96576128,KSRTC,Yes,Yes,Yes,186
+bhIfxjkO,6A Brown,WGRWitXt,8,Kunjalumoodu,8.485012269,76.97139128,KSRTC,No,Yes,Yes,714
+bhIfxjkO,6A Brown,TTFEfIuG,9,Pareeksha Bhavan,8.490014753,76.97290016,KSRTC,No,Yes,Yes,580
+bhIfxjkO,6A Brown,UxMHGhzd,10,Poojappura,8.493062861,76.97477754,KSRTC,No,Yes,Yes,396
+bhIfxjkO,6A Brown,aefpTfEq,11,Chengalloor Hll,8.495573194,76.97798543,KSRTC,No,Yes,Yes,449
+bhIfxjkO,6A Brown,zOIhynso,12,Rotary,8.496840178,76.98028079,KSRTC,Yes,Yes,Yes,289
+bhIfxjkO,6A Brown,KyDgHQpm,13,Vijayamohini Mill,8.498040799,76.98561009,KSRTC,No,Yes,Yes,601
+bhIfxjkO,6A Brown,OLmTpQjW,14,Thirumala Pallimukku,8.500318742,76.98835889,KSRTC,No,Yes,Yes,394
+bhIfxjkO,6A Brown,kDZXTKcg,15,Thirumala,8.502973804,76.99274224,KSRTC,No,Yes,Yes,565
+bhIfxjkO,6A Brown,JEEtgypU,16,Arayalloor,8.506256577,76.99473176,KSRTC,No,Yes,Yes,425
+bhIfxjkO,6A Brown,JMrXkNzl,17,Valiyavila,8.507132496,76.99829195,KSRTC,Yes,Yes,Yes,403
+bhIfxjkO,6A Brown,fEIMBFfF,18,Elippode,8.509293368,76.99476547,KSRTC,No,Yes,Yes,456
+bhIfxjkO,6A Brown,gvmNdAVV,19,Elippode Market,8.508790574,76.99097214,KSRTC,No,Yes,Yes,420
+bhIfxjkO,6A Brown,DlQUlOYC,20,Vettamukku,8.508563526,76.98785137,KSRTC,No,Yes,Yes,344
+bhIfxjkO,6A Brown,RHgYtiQn,21,Nirmithi Kendram,8.510727051,76.98769289,KSRTC,No,Yes,Yes,241
+bhIfxjkO,6A Brown,XLLbiwCM,22,PTP Nagar,8.512803441,76.98766088,KSRTC,No,Yes,Yes,230
+bhIfxjkO,6A Brown,eQfSlxCr,23,Forest Office PTP Nagar,8.513362058,76.98483363,KSRTC,No,Yes,Yes,317
+bhIfxjkO,6A Brown,UINrbMiF,24,Padayani Road,8.513616006,76.98134282,KSRTC,No,Yes,Yes,384
+bhIfxjkO,6A Brown,YFVoOPob,25,Maruthankuzhi,8.512943079,76.97808075,KSRTC,Yes,Yes,Yes,366
+bhIfxjkO,6A Brown,uyawOLmD,26,Sri Ramakrishna Hospital,8.513313063,76.97329135,KSRTC,No,Yes,Yes,528
+bhIfxjkO,6A Brown,gGEEDcie,27,Sasthamangalam,8.512254884,76.97144912,KSRTC,No,Yes,Yes,234
+bhIfxjkO,6A Brown,VoaLdtmh,28,Alakapuri Convention Centre,8.507740995,76.97059332,KSRTC,No,Yes,Yes,510
+bhIfxjkO,6A Brown,idjdhcTr,29,Edapazhanji Pangode Fish Market,8.504866123,76.96924534,KSRTC,No,Yes,Yes,352
+bhIfxjkO,6A Brown,sjxDzHRp,30,Jagathy Government High School,8.500723019,76.96812785,KSRTC,No,Yes,Yes,476
+bhIfxjkO,6A Brown,jrlJlIRV,31,Jagathy,8.494825865,76.96451609,KSRTC,Yes,Yes,Yes,766
+bhIfxjkO,6A Brown,zbaXeJyS,32,Ananthapuri Auditorium,8.492794752,76.96339507,KSRTC,No,Yes,Yes,257
+bhIfxjkO,6A Brown,UhCWnTJa,33,Kannettumukku,8.490780767,76.96122155,KSRTC,No,Yes,Yes,327
+bhIfxjkO,6A Brown,rPWjSfjZ,34,Shanthi Kavadam,8.489057762,76.96147719,KSRTC,No,Yes,Yes,193
+bhIfxjkO,6A Brown,BNcpESex,35,Valiyashala Mahadeva Temple,8.483841071,76.95996193,KSRTC,Yes,Yes,Yes,603
+bhIfxjkO,6A Brown,ZMSNgWDt,36,Chenthitta,8.484119684,76.95660898,KSRTC,No,Yes,Yes,370
+bhIfxjkO,6A Brown,HJhkvSOR,37,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,601
+bhIfxjkO,6A Brown,npYjXutS,38,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+bhIfxjkO,6A Brown,leeDbqil,39,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,Yes,Yes,Yes,692
+NhhoJAsr,3A Magenta,QxZamfbS,1,Peroorkada Depot,8.534707787,76.96753619,KSRTC,Yes,Yes,Yes,0
+NhhoJAsr,3A Magenta,uHULNbDo,2,Peroorkada Junction,8.537083289,76.96576194,KSRTC,No,Yes,Yes,328
+NhhoJAsr,3A Magenta,sWAbgwHe,3,Peroorkada Thankamma Stadium,8.534229257,76.96378491,KSRTC,No,Yes,Yes,384
+NhhoJAsr,3A Magenta,WRfjcdeq,4,Ambalamukku,8.530975679,76.96138736,KSRTC,No,Yes,Yes,447
+NhhoJAsr,3A Magenta,EgakaCII,5,Narmadha Toll Junction,8.527014273,76.9604734,KSRTC,No,Yes,Yes,451
+NhhoJAsr,3A Magenta,jsDIsZpY,6,Kowdiar,8.522039719,76.96001936,KSRTC,Yes,Yes,Yes,555
+NhhoJAsr,3A Magenta,DfsIkKep,7,SPTPM Government Up School,8.523433157,76.95502515,KSRTC,No,Yes,Yes,570
+NhhoJAsr,3A Magenta,WlisbXeH,8,Kuravankonam,8.523112454,76.95234445,KSRTC,No,Yes,Yes,296
+NhhoJAsr,3A Magenta,hwUCZCYi,9,Kuravankonam St Thomas Church,8.522316059,76.95027154,KSRTC,No,Yes,Yes,244
+NhhoJAsr,3A Magenta,TiumaJUx,10,Marappalam,8.519993801,76.94531003,KSRTC,No,Yes,Yes,603
+NhhoJAsr,3A Magenta,YDxTNBbe,11,Pattom SUT Office,8.518164462,76.94286127,KSRTC,Yes,Yes,Yes,337
+NhhoJAsr,3A Magenta,TXkEHPZf,12,Plamoodu,8.515123294,76.94530943,KSRTC,No,Yes,Yes,432
+NhhoJAsr,3A Magenta,XkYZQcQr,13,PMG,8.509106887,76.94931542,KSRTC,No,Yes,Yes,801
+NhhoJAsr,3A Magenta,ZWfXEzJg,14,LMS Corporation Office,8.507295232,76.95204428,KSRTC,No,Yes,Yes,361
+NhhoJAsr,3A Magenta,SthWdxXh,15,Bakery Junction,8.50069801,76.95417251,KSRTC,Yes,Yes,Yes,770
+NhhoJAsr,3A Magenta,InSQCYtF,16,Model School Thycaud,8.493876234,76.95404552,KSRTC,No,Yes,Yes,758
+NhhoJAsr,3A Magenta,HJhkvSOR,17,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,Yes,Yes,Yes,741
+NhhoJAsr,3A Magenta,npYjXutS,18,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+NhhoJAsr,3A Magenta,zvPuxLBv,19,Ayurveda College,8.491513879,76.94710121,KSRTC,No,Yes,Yes,432
+NhhoJAsr,3A Magenta,yjlvaCfU,20,Statue BSNL,8.49292232,76.94746757,KSRTC,No,Yes,Yes,161
+NhhoJAsr,3A Magenta,LeDvDLlR,21,Statue SBI,8.496653276,76.94829188,KSRTC,Yes,Yes,Yes,424
+NhhoJAsr,3A Magenta,LPwlvAzx,22,Palayam Chandrasekharan Nair Stadium,8.504429764,76.95113128,KSRTC,No,Yes,Yes,919
+NhhoJAsr,3A Magenta,wHYROrNo,23,Niyamasabha,8.506740325,76.95052704,KSRTC,No,Yes,Yes,265
+NhhoJAsr,3A Magenta,QJvMaiRe,24,LMS Mascot Hotel,8.508870219,76.95069678,KSRTC,No,Yes,Yes,237
+NhhoJAsr,3A Magenta,xuCOYUst,25,Museum Public Office Complex,8.508408668,76.95403901,KSRTC,No,Yes,Yes,371
+NhhoJAsr,3A Magenta,zcGVCRnm,26,Kanakakunnu,8.5096126,76.95826226,KSRTC,No,Yes,Yes,483
+NhhoJAsr,3A Magenta,DtDkNEWV,27,Vellayambalam,8.511934115,76.96218938,KSRTC,Yes,Yes,Yes,503
+NhhoJAsr,3A Magenta,WXyPFzrt,28,Raj Bhavan Or Jawahar Nagar,8.517112679,76.96055344,KSRTC,No,Yes,Yes,603
+NhhoJAsr,3A Magenta,pdeePVkH,29,TTC Kowdiar,8.519551222,76.96062466,KSRTC,No,Yes,Yes,271
+NhhoJAsr,3A Magenta,AaXGlJaG,30,Kowdiar,8.522644556,76.96049433,KSRTC,No,Yes,Yes,344
+NhhoJAsr,3A Magenta,JmYvAogb,31,Narmadha Toll Junction,8.526901208,76.96037751,KSRTC,Yes,Yes,Yes,473
+NhhoJAsr,3A Magenta,eAbVJywN,32,Ambalamukku,8.532537347,76.96222934,KSRTC,No,Yes,Yes,658
+NhhoJAsr,3A Magenta,TfJZGmHS,33,Peroorkada Thankamma Stadium,8.534301538,76.96370545,KSRTC,No,Yes,Yes,254
+NhhoJAsr,3A Magenta,RQwyoCIz,34,Peroorkada Junction,8.537199999,76.96574785,KSRTC,No,Yes,Yes,392
+NhhoJAsr,3A Magenta,AovZQjSm,35,Peroorkada Depot,8.534864829,76.96761011,KSRTC,Yes,Yes,Yes,330
+KrvbkGWg,1A Red,leeDbqil,1,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,Yes,Yes,Yes,0
+KrvbkGWg,1A Red,TotmgOIU,2,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,219
+KrvbkGWg,1A Red,eMZxNslv,3,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,538
+KrvbkGWg,1A Red,OAEOpFGZ,4,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,No,Yes,Yes,167
+KrvbkGWg,1A Red,UkoqVYLT,5,Thycaud Hospital,8.487456591,76.95641094,KSRTC,No,Yes,Yes,532
+KrvbkGWg,1A Red,rHLVewgE,6,Mettukada,8.490146203,76.95763162,KSRTC,Yes,Yes,Yes,327
+KrvbkGWg,1A Red,SrFvPecE,7,Sri Swathi Thirunal Sangeetha College,8.490468482,76.95622845,KSRTC,No,Yes,Yes,158
+KrvbkGWg,1A Red,XFQofQGE,8,Government Arts College,8.493095726,76.95598571,KSRTC,No,Yes,Yes,293
+KrvbkGWg,1A Red,yiZyQTKm,9,Bharat Bhavan,8.495041363,76.95814824,KSRTC,No,Yes,Yes,321
+KrvbkGWg,1A Red,UXQHMzuW,10,Vazhuthacaud Womens College,8.498013,76.957482,KSRTC,Yes,Yes,Yes,338
+KrvbkGWg,1A Red,IyFtmuOt,11,Forest Head Quarters,8.50289047,76.95963748,KSRTC,No,Yes,Yes,591
+KrvbkGWg,1A Red,jSlAddwF,12,Police Head Quarters Thiruvananthapuram,8.507064326,76.96184169,KSRTC,No,Yes,Yes,523
+KrvbkGWg,1A Red,ooVnghkL,13,Vellayambalam,8.510870949,76.96151542,KSRTC,Yes,Yes,Yes,424
+KrvbkGWg,1A Red,fmifgIoI,14,Kanakakunnu,8.509314463,76.95758858,KSRTC,No,Yes,Yes,465
+KrvbkGWg,1A Red,LwKYHhkr,15,Museum Public Office Complex,8.508083,76.95532,KSRTC,No,Yes,Yes,284
+KrvbkGWg,1A Red,ZWfXEzJg,16,LMS Corporation Office,8.507295232,76.95204428,KSRTC,No,Yes,Yes,370
+KrvbkGWg,1A Red,cbRSKSLu,17,Palayam Fine Arts College,8.505101646,76.95150915,KSRTC,No,Yes,Yes,250
+KrvbkGWg,1A Red,SNpenkdA,18,Palayam Saphalyam,8.502484833,76.95027772,KSRTC,No,Yes,Yes,320
+KrvbkGWg,1A Red,gAUlVhoR,19,Statue SBI,8.497033285,76.94846153,KSRTC,Yes,Yes,Yes,638
+KrvbkGWg,1A Red,iXphFurG,20,Ayurveda College,8.491217648,76.94718051,KSRTC,No,Yes,Yes,661
+KrvbkGWg,1A Red,POCqSlvb,21,Overbridge Pulimoodu,8.489326522,76.94737933,KSRTC,No,Yes,Yes,211
+KrvbkGWg,1A Red,pMpOGtHk,22,Thampanoor KTDC Chaithram,8.487971589,76.94988813,KSRTC,No,Yes,Yes,314
+KrvbkGWg,1A Red,vcHPwTmX,23,Thampanoor Main Bus Stand,8.487671098,76.95195397,KSRTC,No,Yes,Yes,229
+KrvbkGWg,1A Red,HJhkvSOR,24,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,45
+KrvbkGWg,1A Red,npYjXutS,25,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+KrvbkGWg,1A Red,kgKXMCYO,26,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,Yes,Yes,Yes,708
+wfKQKAnT,7A Green,leeDbqil,1,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,Yes,Yes,Yes,0
+wfKQKAnT,7A Green,TotmgOIU,2,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,219
+wfKQKAnT,7A Green,eMZxNslv,3,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,538
+wfKQKAnT,7A Green,OAEOpFGZ,4,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,No,Yes,Yes,167
+wfKQKAnT,7A Green,HJhkvSOR,5,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,89
+wfKQKAnT,7A Green,npYjXutS,6,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+wfKQKAnT,7A Green,zvPuxLBv,7,Ayurveda College,8.491513879,76.94710121,KSRTC,No,Yes,Yes,432
+wfKQKAnT,7A Green,yjlvaCfU,8,Statue BSNL,8.49292232,76.94746757,KSRTC,Yes,Yes,Yes,161
+wfKQKAnT,7A Green,LeDvDLlR,9,Statue SBI,8.496653276,76.94829188,KSRTC,No,Yes,Yes,424
+wfKQKAnT,7A Green,LPwlvAzx,10,Palayam Chandrasekharan Nair Stadium,8.504429764,76.95113128,KSRTC,No,Yes,Yes,919
+wfKQKAnT,7A Green,gxmLnetZ,11,PMG,8.509026312,76.94925206,KSRTC,No,Yes,Yes,551
+wfKQKAnT,7A Green,tadgqxnU,12,Vikas Bhavan Depot,8.508294917,76.94689836,KSRTC,No,Yes,Yes,271
+wfKQKAnT,7A Green,WaqZYrpk,13,Law College Junction Kunnukuzhy,8.508785426,76.94501165,KSRTC,Yes,Yes,Yes,214
+wfKQKAnT,7A Green,iuDbZkiY,14,Miranda Junction,8.504205585,76.94171028,KSRTC,No,Yes,Yes,625
+wfKQKAnT,7A Green,ImvPQrhp,15,Mulavana Junction,8.506734621,76.93897831,KSRTC,No,Yes,Yes,411
+wfKQKAnT,7A Green,DNcHDGif,16,Gowreesha Hospital,8.508717522,76.93840315,KSRTC,No,Yes,Yes,229
+wfKQKAnT,7A Green,eaadFdtN,17,Pottakkuzhy,8.514637411,76.9373371,KSRTC,No,Yes,Yes,668
+wfKQKAnT,7A Green,CnixcMhk,18,Murinjapalam,8.51575026,76.93456414,KSRTC,Yes,Yes,Yes,329
+wfKQKAnT,7A Green,oqDDefyM,19,Medical College Thiruvananthapuram,8.521983909,76.92971502,KSRTC,No,Yes,Yes,874
+wfKQKAnT,7A Green,uBZYwUtT,20,Government Medical College HSS,8.516971631,76.9278229,KSRTC,No,Yes,Yes,594
+wfKQKAnT,7A Green,ojIdxlKG,21,Kumarapuram,8.514496334,76.92753747,KSRTC,Yes,Yes,Yes,277
+wfKQKAnT,7A Green,SVVUIDEF,22,Burma Road,8.510479915,76.92875795,KSRTC,No,Yes,Yes,466
+wfKQKAnT,7A Green,PSiTYnhw,23,Koyikkal Lane,8.508698108,76.92972372,KSRTC,No,Yes,Yes,224
+wfKQKAnT,7A Green,fxvvYTsq,24,John Cox College,8.506755995,76.93105292,KSRTC,No,Yes,Yes,260
+wfKQKAnT,7A Green,cOtqJlmT,25,Kannammoola,8.503302427,76.93178018,KSRTC,No,Yes,Yes,392
+wfKQKAnT,7A Green,mTuJkvRh,26,Kannammoola Bridge,8.50114814,76.93148913,KSRTC,No,Yes,Yes,241
+wfKQKAnT,7A Green,KhAmJIJD,27,Pettah Pallimukku,8.495745,76.934185,KSRTC,Yes,Yes,Yes,669
+wfKQKAnT,7A Green,ligsnmCg,28,Ambalathumukku,8.493519546,76.9365525,KSRTC,No,Yes,Yes,359
+wfKQKAnT,7A Green,nFyHjYwe,29,Uppidamoodu Bridge,8.490693584,76.94043001,KSRTC,No,Yes,Yes,529
+wfKQKAnT,7A Green,gAdSLgLo,30,Sreekanteswaram Temple,8.487446818,76.94206669,KSRTC,No,Yes,Yes,403
+wfKQKAnT,7A Green,QOxmTycy,31,Fort Hospital,8.484469174,76.94189391,KSRTC,Yes,Yes,Yes,331
+wfKQKAnT,7A Green,kfXnJtOL,32,Padinjare Nada,8.48287521,76.94191563,KSRTC,No,Yes,Yes,177
+wfKQKAnT,7A Green,KDhJpBbB,33,Vazhappally,8.480690426,76.94199429,KSRTC,No,Yes,Yes,243
+wfKQKAnT,7A Green,ybExYRqQ,34,KSRTC Transport Bhavan,8.480596136,76.94577201,KSRTC,No,Yes,Yes,415
+wfKQKAnT,7A Green,kgKXMCYO,35,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,Yes,Yes,Yes,228
+HhGbDFDa,2C Blue,TotmgOIU,1,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,Yes,Yes,Yes,0
+HhGbDFDa,2C Blue,pMpOGtHk,2,Thampanoor KTDC Chaithram,8.487971589,76.94988813,KSRTC,No,Yes,Yes,529
+HhGbDFDa,2C Blue,OAEOpFGZ,3,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,No,Yes,Yes,186
+HhGbDFDa,2C Blue,HfjUFqzi,4,Thampanoor Railway Station,8.487602331,76.95244127,KSRTC,No,Yes,Yes,97
+HhGbDFDa,2C Blue,npYjXutS,5,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,417
+HhGbDFDa,2C Blue,prNRAYxJ,6,Ayurveda College,8.491106632,76.94597318,KSRTC,No,Yes,Yes,459
+HhGbDFDa,2C Blue,IVqbxTws,7,Kunnumpuram Junction,8.491069639,76.94404955,KSRTC,Yes,Yes,Yes,211
+HhGbDFDa,2C Blue,iaMgcDiV,8,Uppidamoodu Bridge,8.490634778,76.94040588,KSRTC,No,Yes,Yes,403
+HhGbDFDa,2C Blue,krGKIVeG,9,Vanchiyoor Court,8.494051918,76.94035138,KSRTC,No,Yes,Yes,380
+HhGbDFDa,2C Blue,UQlRMQMK,10,Pattoor,8.496902556,76.93828883,KSRTC,Yes,Yes,Yes,389
+HhGbDFDa,2C Blue,pIEFWcHj,11,Government Eye Hospital,8.499309024,76.94108404,KSRTC,No,Yes,Yes,407
+HhGbDFDa,2C Blue,rxHYKxiM,12,General Hospital Trivandrum,8.499330365,76.94281039,KSRTC,No,Yes,Yes,189
+HhGbDFDa,2C Blue,MCygkfJZ,13,Kerala University,8.503695358,76.94854828,KSRTC,Yes,Yes,Yes,796
+HhGbDFDa,2C Blue,LPwlvAzx,14,Palayam Chandrasekharan Nair Stadium,8.504429764,76.95113128,KSRTC,No,Yes,Yes,295
+HhGbDFDa,2C Blue,wHYROrNo,15,Niyamasabha,8.506740325,76.95052704,KSRTC,No,Yes,Yes,265
+HhGbDFDa,2C Blue,QJvMaiRe,16,LMS Mascot Hotel,8.508870219,76.95069678,KSRTC,No,Yes,Yes,237
+HhGbDFDa,2C Blue,xuCOYUst,17,Museum Public Office Complex,8.508408668,76.95403901,KSRTC,No,Yes,Yes,371
+HhGbDFDa,2C Blue,zcGVCRnm,18,Kanakakunnu,8.5096126,76.95826226,KSRTC,No,Yes,Yes,483
+HhGbDFDa,2C Blue,kEMgwHPx,19,Vellayambalam,8.511957557,76.9635057,KSRTC,Yes,Yes,Yes,632
+HhGbDFDa,2C Blue,xxVlyUco,20,Sasthamangalam Judge Lane,8.511690102,76.96733819,KSRTC,No,Yes,Yes,422
+HhGbDFDa,2C Blue,axWbOCVa,21,Sasthamangalam,8.513119232,76.97218692,KSRTC,No,Yes,Yes,556
+HhGbDFDa,2C Blue,TZnYYVKr,22,Sri Ramakrishna Hospital,8.513468681,76.97351526,KSRTC,No,Yes,Yes,151
+HhGbDFDa,2C Blue,jUifMkUJ,23,Maruthankuzhi,8.514017436,76.97727879,KSRTC,Yes,Yes,Yes,418
+HhGbDFDa,2C Blue,gRtSYNRl,24,Kochar Road,8.512296684,76.97665096,KSRTC,No,Yes,Yes,203
+HhGbDFDa,2C Blue,VoaLdtmh,25,Alakapuri Convention Centre,8.507740995,76.97059332,KSRTC,No,Yes,Yes,836
+HhGbDFDa,2C Blue,idjdhcTr,26,Edapazhanji Pangode Fish Market,8.504866123,76.96924534,KSRTC,Yes,Yes,Yes,352
+HhGbDFDa,2C Blue,jrlJlIRV,27,Jagathy,8.494825865,76.96451609,KSRTC,No,Yes,Yes,1231
+HhGbDFDa,2C Blue,MuttQSvp,28,DPI Junction,8.496078295,76.96206615,KSRTC,No,Yes,Yes,303
+HhGbDFDa,2C Blue,JguRmBDq,29,Vazhuthacaud Kalabhavan Theatre,8.500187363,76.95817043,KSRTC,No,Yes,Yes,626
+HhGbDFDa,2C Blue,UXQHMzuW,30,Vazhuthacaud Womens College,8.498013,76.957482,KSRTC,No,Yes,Yes,253
+HhGbDFDa,2C Blue,RTZHqmBU,31,Bakery Junction,8.500589766,76.95398941,KSRTC,No,Yes,Yes,479
+HhGbDFDa,2C Blue,InSQCYtF,32,Model School Thycaud,8.493876234,76.95404552,KSRTC,No,Yes,Yes,746
+HhGbDFDa,2C Blue,oNFyYWAD,33,Aristo,8.489332272,76.95392173,KSRTC,No,Yes,Yes,505
+HhGbDFDa,2C Blue,HJhkvSOR,34,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,276
+HhGbDFDa,2C Blue,zYiXliXa,35,Thampanoor RMS,8.488012061,76.94806718,KSRTC,No,Yes,Yes,468
+HhGbDFDa,2C Blue,EtnfKXha,36,East Fort North Bus Stand,8.483820321,76.94777719,KSRTC,Yes,Yes,Yes,467
+OTNCMLiG,5A Violet,QxZamfbS,1,Peroorkada Depot,8.534707787,76.96753619,KSRTC,Yes,Yes,Yes,0
+OTNCMLiG,5A Violet,uHULNbDo,2,Peroorkada Junction,8.537083289,76.96576194,KSRTC,No,Yes,Yes,328
+OTNCMLiG,5A Violet,sWAbgwHe,3,Peroorkada Thankamma Stadium,8.534229257,76.96378491,KSRTC,No,Yes,Yes,384
+OTNCMLiG,5A Violet,WRfjcdeq,4,Ambalamukku,8.530975679,76.96138736,KSRTC,No,Yes,Yes,447
+OTNCMLiG,5A Violet,EgakaCII,5,Narmadha Toll Junction,8.527014273,76.9604734,KSRTC,No,Yes,Yes,451
+OTNCMLiG,5A Violet,kPxMSDwg,6,Kowdiar,8.521697316,76.96083335,KSRTC,Yes,Yes,Yes,592
+OTNCMLiG,5A Violet,rgdsABic,7,Raj Bhavan Or Jawahar Nagar,8.517146171,76.96067821,KSRTC,No,Yes,Yes,506
+OTNCMLiG,5A Violet,ooVnghkL,8,Vellayambalam,8.510870949,76.96151542,KSRTC,No,Yes,Yes,703
+OTNCMLiG,5A Violet,fmifgIoI,9,Kanakakunnu,8.509314463,76.95758858,KSRTC,No,Yes,Yes,465
+OTNCMLiG,5A Violet,LwKYHhkr,10,Museum Public Office Complex,8.508083,76.95532,KSRTC,No,Yes,Yes,284
+OTNCMLiG,5A Violet,ZWfXEzJg,11,LMS Corporation Office,8.507295232,76.95204428,KSRTC,Yes,Yes,Yes,370
+OTNCMLiG,5A Violet,cbRSKSLu,12,Palayam Fine Arts College,8.505101646,76.95150915,KSRTC,No,Yes,Yes,250
+OTNCMLiG,5A Violet,SNpenkdA,13,Palayam Saphalyam,8.502484833,76.95027772,KSRTC,No,Yes,Yes,320
+OTNCMLiG,5A Violet,gAUlVhoR,14,Statue SBI,8.497033285,76.94846153,KSRTC,No,Yes,Yes,638
+OTNCMLiG,5A Violet,iXphFurG,15,Ayurveda College,8.491217648,76.94718051,KSRTC,No,Yes,Yes,661
+OTNCMLiG,5A Violet,POCqSlvb,16,Overbridge Pulimoodu,8.489326522,76.94737933,KSRTC,No,Yes,Yes,211
+OTNCMLiG,5A Violet,eMZxNslv,17,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,Yes,Yes,Yes,331
+OTNCMLiG,5A Violet,OAEOpFGZ,18,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,No,Yes,Yes,167
+OTNCMLiG,5A Violet,UkoqVYLT,19,Thycaud Hospital,8.487456591,76.95641094,KSRTC,No,Yes,Yes,532
+OTNCMLiG,5A Violet,rHLVewgE,20,Mettukada,8.490146203,76.95763162,KSRTC,No,Yes,Yes,327
+OTNCMLiG,5A Violet,SrFvPecE,21,Sri Swathi Thirunal Sangeetha College,8.490468482,76.95622845,KSRTC,No,Yes,Yes,158
+OTNCMLiG,5A Violet,XFQofQGE,22,Government Arts College,8.493095726,76.95598571,KSRTC,No,Yes,Yes,293
+OTNCMLiG,5A Violet,yiZyQTKm,23,Bharat Bhavan,8.495041363,76.95814824,KSRTC,No,Yes,Yes,321
+OTNCMLiG,5A Violet,UXQHMzuW,24,Vazhuthacaud Womens College,8.498013,76.957482,KSRTC,No,Yes,Yes,338
+OTNCMLiG,5A Violet,BASanxAm,25,Easwara Vilasam Cotton Hill School,8.502170013,76.96386396,KSRTC,Yes,Yes,Yes,840
+OTNCMLiG,5A Violet,ttjArfJm,26,Edapazhanji Pangode Fish Market,8.504602753,76.96897035,KSRTC,No,Yes,Yes,623
+OTNCMLiG,5A Violet,SQALAdQW,27,Alakapuri Convention Centre,8.507634224,76.9704857,KSRTC,No,Yes,Yes,376
+OTNCMLiG,5A Violet,mrVTUjUl,28,Sasthamangalam,8.513558144,76.97182034,KSRTC,Yes,Yes,Yes,674
+OTNCMLiG,5A Violet,sApbKcoa,29,Paippinmoodu Park,8.517080838,76.97351336,KSRTC,No,Yes,Yes,433
+OTNCMLiG,5A Violet,GGfBAxvT,30,Paippinmoodu,8.51875537,76.97222058,KSRTC,No,Yes,Yes,234
+OTNCMLiG,5A Violet,baOwymqL,31,Swathi Nagar,8.5215458,76.97166477,KSRTC,No,Yes,Yes,316
+OTNCMLiG,5A Violet,SdznyvWu,32,SAP Camp,8.525307296,76.96980829,KSRTC,No,Yes,Yes,465
+OTNCMLiG,5A Violet,JiYqKtCi,33,Oolampara Mental Health Centre,8.526861382,76.9694598,KSRTC,No,Yes,Yes,177
+OTNCMLiG,5A Violet,BxXETFrF,34,Oolampara HLL Lifecare Ltd,8.527874879,76.96892682,KSRTC,No,Yes,Yes,127
+OTNCMLiG,5A Violet,AovZQjSm,35,Peroorkada Depot,8.534864829,76.96761011,KSRTC,Yes,Yes,Yes,790
+jaRXfbYc,11A Gold,OAEOpFGZ,1,Thampanoor Main Bus Stand,8.487827637,76.95158019,KSRTC,Yes,Yes,Yes,0
+jaRXfbYc,11A Gold,HJhkvSOR,2,Thampanoor Railway Station,8.487437317,76.95229059,KSRTC,No,Yes,Yes,89
+jaRXfbYc,11A Gold,npYjXutS,3,Thampanoor RMS,8.487940302,76.94866028,KSRTC,No,Yes,Yes,403
+jaRXfbYc,11A Gold,EtnfKXha,4,East Fort North Bus Stand,8.483820321,76.94777719,KSRTC,No,Yes,Yes,468
+jaRXfbYc,11A Gold,kgKXMCYO,5,East South Fort Bus Stand,8.481659718,76.94755458,KSRTC,No,Yes,Yes,241
+jaRXfbYc,11A Gold,bWHnWdjS,6,Manacaud,8.475308065,76.94759471,KSRTC,No,Yes,Yes,706
+jaRXfbYc,11A Gold,Scxyofsi,7,Mukkolakkal Temple,8.473409326,76.94230661,KSRTC,Yes,Yes,Yes,618
+jaRXfbYc,11A Gold,AOcCSyql,8,Parambil Nagar,8.471757301,76.94087656,KSRTC,No,Yes,Yes,241
+jaRXfbYc,11A Gold,VLHmbGyx,9,Kallumoodu,8.469641082,76.93606864,KSRTC,No,Yes,Yes,578
+jaRXfbYc,11A Gold,NBJVHglM,10,Ponnara School,8.468590834,76.93406458,KSRTC,No,Yes,Yes,249
+jaRXfbYc,11A Gold,VICoxcHw,11,Ponnara Bridge,8.468007901,76.93291893,KSRTC,No,Yes,Yes,141
+jaRXfbYc,11A Gold,qflTiOlz,12,Bangladesh Colony,8.46675398,76.93026795,KSRTC,No,Yes,Yes,323
+jaRXfbYc,11A Gold,MeBPIGWf,13,Valiyathura,8.464670983,76.92627774,KSRTC,Yes,Yes,Yes,496
+jaRXfbYc,11A Gold,sGdPPGQQ,14,Velankanni Junction,8.462032542,76.92829759,KSRTC,No,Yes,Yes,367
+jaRXfbYc,11A Gold,BtcqHoTF,15,Rose Mini School,8.459659086,76.93066705,KSRTC,No,Yes,Yes,370
+jaRXfbYc,11A Gold,feEpQjgD,16,Cheriya Thura,8.457608517,76.93228571,KSRTC,No,Yes,Yes,289
+jaRXfbYc,11A Gold,fDUHKSbr,17,Beema Pally,8.455920791,76.93381244,KSRTC,No,Yes,Yes,251
+jaRXfbYc,11A Gold,TaUOwEXn,18,Noorul Islam College Junction,8.450783,76.938436,KSRTC,No,Yes,Yes,764
+jaRXfbYc,11A Gold,NyjKVTim,19,Jawahar Junction,8.447079512,76.94095613,KSRTC,No,Yes,Yes,496
+jaRXfbYc,11A Gold,NzoumSpk,20,Poonthura Junction,8.443694775,76.94394907,KSRTC,Yes,Yes,Yes,500
+jaRXfbYc,11A Gold,jwxtxcaU,21,Poonthura Kseb,8.445075313,76.94464895,KSRTC,No,Yes,Yes,171
+jaRXfbYc,11A Gold,XXnZKzjZ,22,Poothura Police Station,8.447470584,76.94651504,KSRTC,No,Yes,Yes,336
+jaRXfbYc,11A Gold,dJJZZnyC,23,Puthenpally,8.448846,76.947781,KSRTC,No,Yes,Yes,206
+jaRXfbYc,11A Gold,TQTQKvTM,24,Ambalathara,8.45271191,76.95090238,KSRTC,No,Yes,Yes,550
+jaRXfbYc,11A Gold,vkDnhzdd,25,Paravankunnu,8.45613289,76.94991825,KSRTC,No,Yes,Yes,395
+jaRXfbYc,11A Gold,MsFIEbeI,26,National Engineering College,8.458379192,76.95062187,KSRTC,No,Yes,Yes,261
+jaRXfbYc,11A Gold,WoKWlsoE,27,Kallettumukku,8.461974062,76.95014558,KSRTC,No,Yes,Yes,403
+jaRXfbYc,11A Gold,MGwpOxFw,28,Kamaleswaram,8.467698417,76.94818364,KSRTC,Yes,Yes,Yes,672
+jaRXfbYc,11A Gold,RYtTtAyz,29,Manacaud,8.47529684,76.94748224,KSRTC,No,Yes,Yes,848
+jaRXfbYc,11A Gold,leeDbqil,30,East Fort South Bus Stand,8.481837347,76.94740027,KSRTC,No,Yes,Yes,727
+jaRXfbYc,11A Gold,TotmgOIU,31,East Fort North Bus Stand,8.483808407,76.94754913,KSRTC,No,Yes,Yes,219
+jaRXfbYc,11A Gold,eMZxNslv,32,Thampanoor KTDC Chaithram,8.487971441,76.95005964,KSRTC,No,Yes,Yes,538
+jaRXfbYc,11A Gold,vcHPwTmX,33,Thampanoor Main Bus Stand,8.487671098,76.95195397,KSRTC,Yes,Yes,Yes,210
