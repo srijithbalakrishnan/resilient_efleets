@@ -25,9 +25,6 @@ classifiers = [
     "Programming Language :: Python :: 3.12",
 ]
 
-[project.entry-points."console_scripts"]
-resilient_efleets = "resilient_efleets.cli:main"
-
 [project.optional-dependencies]
 all = [
     "resilient_efleets[extra]",
@@ -38,10 +35,13 @@ extra = [
 ]
 
 
-[tool]
+[tool.setuptools]
+package-dir = {}
+
 [tool.setuptools.packages.find]
+where = ["."]
 include = ["resilient_efleets*"]
-exclude = ["docs*"]
+exclude = ["docs*", "tests*"]
 
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}
