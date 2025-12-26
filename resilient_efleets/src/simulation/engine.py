@@ -13,16 +13,35 @@ from resilient_efleets.src.simulation.state import SimulationState
 from resilient_efleets.src.simulation.logger import SimulationLogger
 from resilient_efleets.src.simulation.event_queue import HybridSimulationScheduler, SimulationEvent, EventType
 from resilient_efleets.src.hazards.manager import DisruptionManager
+from resilient_efleets.src.hazards.flood import FloodHazardConfig
 from resilient_efleets.src.optimization.mip_model import optimize_network
 from resilient_efleets.src.optimization.decision_applier import apply_mip_decisions
 from resilient_efleets.src.config.settings import SimulationSettings, HybridSimulationSettings
 
 
 class SimulationEngine:
-    def __init__(self, state: SimulationState, logger: SimulationLogger = None):
+    def __init__(
+        self,
+        state: SimulationState,
+        logger: SimulationLogger = None,
+        flood_config: Optional[FloodHazardConfig] = None,
+        use_random_disruptions: bool = True
+    ):
+        """
+        Initialize simulation engine.
+        
+        Args:
+            state: SimulationState object
+            logger: Optional custom logger
+            flood_config: Configuration for flood hazard disruptions (None = disabled)
+            use_random_disruptions: Whether to use random disruptions (default: True)
+        """
         self.state = state
         self.logger = logger or SimulationLogger()
-        self.state.disruption_manager = DisruptionManager()  # Add flood file later if needed
+        self.state.disruption_manager = DisruptionManager(
+            flood_config=flood_config,
+            use_random_disruptions=use_random_disruptions
+        )
         self.mip_interval_steps = 10  # Run MIP every 10 steps for better performance (for fixed interval mode)
         self.parallel_bus_workers = 8  # Use 8 cores for parallel bus steps (reduced to avoid overhead)
         self.use_mip = True  # Enable MIP optimization for coordinated fleet decisions
@@ -73,7 +92,10 @@ class SimulationEngine:
             # 1. Update hazards
             self.state.charging_stations = self.state.disruption_manager.update(
                 routes=self.state.routes,
+                stops=self.state.stops,
                 charging_stations=self.state.charging_stations,
+                depots=self.state.depots,
+                buses=self.state.buses,
                 current_sim_time=current_sim_time
             )
             self.state.active_disruptions = self.state.disruption_manager.get_active_disruptions()
@@ -172,7 +194,10 @@ class SimulationEngine:
             # 1. Update hazards
             self.state.charging_stations = self.state.disruption_manager.update(
                 routes=self.state.routes,
+                stops=self.state.stops,
                 charging_stations=self.state.charging_stations,
+                depots=self.state.depots,
+                buses=self.state.buses,
                 current_sim_time=current_sim_time
             )
             self.state.active_disruptions = self.state.disruption_manager.get_active_disruptions()
